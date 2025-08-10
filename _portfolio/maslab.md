@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Cake
-feature-img: "assets/img/portfolio/cake.png"
-img: "assets/img/portfolio/cake.png"
-date: 27 September 2015
-tags: [Lorem, Ipsum]
+title: MASLAB 2025
+feature-img: "assets/img/portfolio/maslab-comp.png"
+img: "assets/img/portfolio/maslab-comp.png"
+date: January 2025
+tags: [MechE]
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
