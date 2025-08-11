@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Robotic Arm
+feature-img: "assets/img/portfolio/robotic-arm.JPG"
 img: "assets/img/portfolio/robotic-arm.JPG"
 date: Spring 2025
 tags: [Research]
