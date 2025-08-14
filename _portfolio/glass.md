@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Lorem Ipsum
+title: Glass Flameworks
 img: "assets/img/portfolio/glass.png"
-date: Summer 2025
+date: 2025-07-01
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
