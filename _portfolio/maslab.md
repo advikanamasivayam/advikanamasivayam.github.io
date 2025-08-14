@@ -4,7 +4,7 @@ title: MASLAB 2025
 feature-img: "assets/img/portfolio/maslab-comp.jpg"
 img: "assets/img/portfolio/maslab-comp.jpg"
 date: 2025-01-01
-tags: [MechE. CAD]
+tags: [MechE, CAD]
 ---
 https://maslab.mit.edu/2025/wiki/team15
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
