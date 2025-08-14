@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Jekyll
-feature-img: "assets/img/portfolio/cabin.png"
-img: "assets/img/portfolio/cabin.png"
-date: 2017-05-26
+title: UNO Robotics Internship 
+img: "assets/img/portfolio/moira.png"
+date: Summer 2022
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, 
