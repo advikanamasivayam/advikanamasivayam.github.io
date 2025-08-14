@@ -8,4 +8,3 @@ position: 2
 tags: [Page]
 ---
 {% include portfolio.html %}
-<!-- {%include portfolio.html | sort: "date" | reverse %} -->
