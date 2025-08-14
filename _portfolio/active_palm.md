@@ -1,7 +1,7 @@
 ---
 layout: post
 title: d'Arbeloff Lab Active Palm UROP
-img: "assets/img/portfolio/rig.png"
+img: "assets/img/portfolio/rig.jpg"
 date: Summer 2025
 ---
 
