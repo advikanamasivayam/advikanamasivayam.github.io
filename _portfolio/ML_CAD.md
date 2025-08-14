@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Github
-img: "assets/img/portfolio/github.png"
-date: 20-10-2017
-tags: [Lorem]
+title: DeCoDE Lab ML for CAD UROP
+img: "assets/img/portfolio/icosahedron.png"
+date: 05-06-2025
+tags: [Research]
 ---
 
 ![image]({{ page.img | relative_url }})
