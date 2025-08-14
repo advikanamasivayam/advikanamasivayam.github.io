@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Circus
-img: "assets/img/portfolio/circus.png"
-date: September 2014
-tags: [Ipsum]
+title: Robotic Arm
+img: "assets/img/portfolio/robotic_arm.png"
+date: IAP & Spring 2025
+tags: [Research]
 ---
 
 ![image]({{ page.img | relative_url }})
