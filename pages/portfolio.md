@@ -7,5 +7,5 @@ feature-img: "assets/img/pexels/computer.jpeg"
 position: 2
 tags: [Page]
 ---
-
-{%include portfolio.html | sort: "date" | reverse %}
+{% include portfolio.html %}
+<!-- {%include portfolio.html | sort: "date" | reverse %} -->
