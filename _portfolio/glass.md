@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Lorem Ipsum
-img: "assets/img/portfolio/glass.png"
-date: Summer 2025
+title: Glass Flameworks
+img: "assets/img/portfolio/glass.jpg"
+date: 2025-07-01
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 

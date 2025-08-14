@@ -2,7 +2,7 @@
 layout: post
 title: DeCoDE Lab ML for CAD UROP
 img: "assets/img/portfolio/icosahedron.png"
-date: Summer 2025
+date: 2025-06-01
 tags: [Research, CAD, Python]
 ---
 
