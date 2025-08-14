@@ -3,7 +3,7 @@ layout: post
 title: Robotic Arm
 img: "assets/img/portfolio/robotic_arm.png"
 date: Spring 2025
-tags: [Research]
+tags: [Research, LabVIEW, CAD]
 ---
 
 ![image]({{ page.img | relative_url }})
