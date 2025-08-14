@@ -1,4 +1,3 @@
-<img width="971" height="686" alt="image" src="https://github.com/user-attachments/assets/eaf0f064-5457-4288-8be2-6fcf0f63ea7f" />---
 layout: post
 title: CAD
 img: "assets/img/portfolio/glasses.png"
