@@ -3,7 +3,7 @@ layout: post
 title: UNO AWS Internship
 img: "assets/img/portfolio/aws.png"
 date: Summer 2023
-tags: [Research]
+tags: [Research, Java]
 ---
 
 
