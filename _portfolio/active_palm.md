@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Tower of Hanoi
-img: "assets/img/portfolio/toh.png"
-date: September 2014
+title: d'Arbeloff Lab Active Palm UROP
+img: "assets/img/portfolio/rig.png"
+date: Summer 2025
 ---
 
 The tower of Hanoi...
