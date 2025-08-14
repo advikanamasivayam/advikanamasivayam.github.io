@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Robotic Arm
+title: Solar Car Team Roll Cage
 feature-img: "assets/img/portfolio/robotic-arm.JPG"
 img: "assets/img/portfolio/robotic-arm.JPG"
 date: Spring 2025
-tags: [Research]
+tags: [MechE]
 ---
 
 ![image]({{ page.img | relative_url }})
