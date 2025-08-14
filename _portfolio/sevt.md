@@ -4,7 +4,7 @@ title: Solar Car Team Roll Cage
 feature-img: "assets/img/portfolio/robotic_arm.png"
 img: "assets/img/portfolio/robotic-arm.JPG"
 date: 2025
-tags: [MechE]
+tags: [CAD, FEA]
 ---
 
 ![image]({{ page.img | relative_url }})
