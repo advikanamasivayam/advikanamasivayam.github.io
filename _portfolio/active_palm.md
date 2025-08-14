@@ -3,7 +3,7 @@ layout: post
 title: d'Arbeloff Lab Active Palm UROP
 img: "assets/img/portfolio/rig.jpg"
 date: Summer 2025
-tags: [Research, MechE]
+tags: [Research, MechE, CAD, Arduino]
 
 ---
 
