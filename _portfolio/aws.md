@@ -2,7 +2,7 @@
 layout: post
 title: UNO AWS Internship
 img: "assets/img/portfolio/aws.png"
-date: Summer 2023
+date: 2023-06-01
 tags: [Research, Java]
 ---
 
