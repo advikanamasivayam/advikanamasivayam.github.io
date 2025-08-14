@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://advikanamasivayam.github.io/"
+url: "https://advikanamasivayam.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Advika Namasivayam                                    # site's title
