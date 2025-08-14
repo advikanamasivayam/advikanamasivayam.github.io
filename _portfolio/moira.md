@@ -3,6 +3,7 @@ layout: post
 title: UNO Robotics Internship 
 img: "assets/img/portfolio/moira.png"
 date: Summer 2022
+tags: [Research, CAD, Arduino]
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, 

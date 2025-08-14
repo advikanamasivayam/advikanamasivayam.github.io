@@ -3,6 +3,7 @@ layout: post
 title: Tic tac toe
 img: "assets/img/portfolio/cad.png"
 date: 2025
+tags: [CAD]
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
