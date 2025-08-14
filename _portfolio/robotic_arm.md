@@ -2,7 +2,7 @@
 layout: post
 title: Robotic Arm
 img: "assets/img/portfolio/robotic_arm.png"
-date: IAP & Spring 2025
+date: 2025-03-01
 tags: [Research]
 ---
 
