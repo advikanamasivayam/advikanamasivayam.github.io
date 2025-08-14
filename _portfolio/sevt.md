@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Solar Car Team Roll Cage
-feature-img: "assets/img/portfolio/robotic_arm.png"
-img: "assets/img/portfolio/robotic-arm.JPG"
+img: "assets/img/portfolio/rc.png"
 date: 2024-09-01
 tags: [CAD, FEA]
 ---
