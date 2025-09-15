@@ -1,0 +1,19 @@
+<style>
+/* force scrollbar */
+html { overflow-y: scroll; }
+</style>
+
+<div id="masonry" class="grid">
+  <div class="grid-sizer"></div>
+  <div class="gutter-sizer"></div>
+
+  {% assign sorted = site.portfolio | sort: "date" | reverse %}
+  {% for item in sorted %}
+      <a href="{{ item.url | relative_url }}">
+        <img src="{{ item.img | relative_url }}" alt="{{ item.title }}" class="grid-item" style="padding:0;">
+      </a>
+  {% endfor %}
+</div>
+
+<script src="{{ '/assets/js/vendor/imagesloaded.pkgd.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/vendor/masonry.pkgd.min.js' | relative_url }}"></script>
