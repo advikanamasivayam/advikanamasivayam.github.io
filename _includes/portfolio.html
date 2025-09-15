@@ -3,7 +3,6 @@
   {% for item in sorted_portfolio %}
     <a href="{{ item.url | relative_url }}" class="gallery-item">
       <img src="{{ item.img | relative_url }}" alt="{{ item.title }}">
-      <span class="caption">{{ item.title }}</span>
     </a>
   {% endfor %}
 </div>
