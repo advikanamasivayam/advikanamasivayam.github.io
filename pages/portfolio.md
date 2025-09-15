@@ -8,3 +8,5 @@ feature-img: "assets/img/pexels/wood.jpg"
 position: 2
 tags: [Page]
 ---
+{% include portfolio.html %}
+
