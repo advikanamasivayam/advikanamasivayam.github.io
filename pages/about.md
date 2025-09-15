@@ -2,7 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/mit.jpeg"
+feature-img: "assets/img/pexels/mit.jpg"
+
 tags: [Page]
 ---
 I am Advika Namasivayam, a sophomore at MIT studying Mechanical Engineering with a concentration in Control, Instrumentation, and Robotics. I'm  interested in the applications of robotics in space, such as in planetary rovers, but also how they can improve lives here on Earth too.
