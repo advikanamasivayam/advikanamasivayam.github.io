@@ -2,13 +2,9 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/pexels/mit.jpeg"
 tags: [Page]
 ---
+I am Advika Namasivayam, a sophomore at MIT studying Mechanical Engineering with a concentration in Control, Instrumentation, and Robotics. I'm  interested in the applications of robotics in space, such as in planetary rovers, but also how they can improve lives here on Earth too.
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://github.com/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+I created this page using Type on Strap, which based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
