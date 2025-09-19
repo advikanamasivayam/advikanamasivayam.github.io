@@ -1,9 +1,9 @@
 --- 
 layout: page
-title : Portfolio 
+title : Advika Namasivayam 
 permalink: /portfolio/
-subtitle: "Projects I am working on" 
-feature-img: "assets/img/pexels/wood.jpg"
+subtitle: 
+feature-img: "assets/img/pexels/mit.jpg"
 position: 2
 tags: [Page]
 ---
