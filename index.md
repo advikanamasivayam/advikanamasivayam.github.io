@@ -1,6 +1,11 @@
 ---
-layout: page          # or "post" if you want post styling
+layout: page
 title: Portfolio
-permalink: /           # ensures it is served at the root
+permalink: /
+subtitle: Portfolio
+feature-img: "assets/img/pexels/mit.jpg"
+position: 1
+tags: [Page]
 ---
-{% include_relative pages/portfolio.md %}
+
+{% include portfolio-gallery.html %}
