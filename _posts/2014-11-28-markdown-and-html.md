@@ -1,3 +1,4 @@
+<!--
 ---
 layout: post
 title: Markdown and HTML
@@ -102,3 +103,5 @@ And in your markdown file:
     Now you see me
 </details>
 ```
+
+-->
