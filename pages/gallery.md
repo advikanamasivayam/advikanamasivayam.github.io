@@ -6,6 +6,7 @@ permalink: /gallery/
 gallery_path: "assets/img/pexels"
 excluded: true
 position: 3
+hide: true
 tags: [Page]
 ---
 
@@ -14,3 +15,4 @@ I wanted to automatically create a simple gallery from a folder without having t
 
 
 {% include gallery.html gallery_path=page.gallery_path %}
+
