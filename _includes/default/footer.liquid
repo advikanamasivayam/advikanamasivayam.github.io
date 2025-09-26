@@ -1,10 +1,19 @@
 <footer class="site-footer">
     <p class="text">
-        {{ site.footer_text | default: "Powered by <a href='https://jekyllrb.com/'>Jekyll</a> with <a href='https://github.com/sylhare/Type-on-Strap'>Type on Strap</a>" }}</p>
+        {{ site.footer_text | default: "Powered by <a href='https://jekyllrb.com/'>Jekyll</a> with <a href='https://github.com/sylhare/Type-on-Strap'>Type on Strap</a>" }}
+    </p>
     <div class="footer-icons">
         <ul>
-            <!-- Social icons from Font Awesome, if enabled -->
-            {% include social/icons.liquid %}
+            <li>
+                <a href="https://github.com/advikanamasivayam" target="_blank">
+                    <i class="fa fa-github"></i>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.linkedin.com/in/advikanamasivayam" target="_blank">
+                    <i class="fa fa-linkedin"></i>
+                </a>
+            </li>
         </ul>
     </div>
     {% if site.mermaid %}
@@ -14,5 +23,3 @@
         </script>
     {% endif %}
 </footer>
-
-
