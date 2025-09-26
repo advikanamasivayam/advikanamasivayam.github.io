@@ -1,3 +1,4 @@
+<!--
 ---
 layout: post
 title: What's your title
@@ -29,3 +30,5 @@ Well that's due to some jekyll limitation:
 
 The title is used elsewhere than inside the post, for example in the blog page that list this post.
 An empty title would break those pages and possibly prevents jekyll to render your blog. 
+
+-->
