@@ -7,9 +7,8 @@ date: 2025-01-01
 tags: [CAD]
 ---
 
-<iframe
-  src="https://maslab.mit.edu/2025/wiki/team15"
-  width="100%"
-  height="800"
-  style="border:none; overflow:auto;">
-</iframe>
+<div class="iframe-full">
+  <iframe src="https://maslab.mit.edu/2025/wiki/team15"
+          width="100%" height="800"
+          style="border:none;"></iframe>
+</div>
