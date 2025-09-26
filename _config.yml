@@ -15,6 +15,11 @@ header_feature_image_responsive: true
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
+# Header pages (only these appear in top navigation)
+header_pages:
+  - index.md           # Portfolio as the homepage
+  - pages/about.md     # About page
+
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
