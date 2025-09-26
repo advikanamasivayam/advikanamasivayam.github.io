@@ -1,6 +1,6 @@
 --- 
 layout: page
-title : Advika Namasivayam 
+title : Portfolio
 permalink: /portfolio/
 subtitle: Portfolio
 feature-img: "assets/img/pexels/mit.jpg"
