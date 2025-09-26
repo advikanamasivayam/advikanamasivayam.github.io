@@ -1,3 +1,4 @@
+<!--
 ---
 layout: post
 title: "Markup: Syntax Highlighting"
@@ -98,3 +99,5 @@ Here is how it looks like:
 <br>
 
 [^1]: {% include citation.html key="highlight" %}
+
+-->
