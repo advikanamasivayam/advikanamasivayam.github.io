@@ -10,7 +10,7 @@ Over the summer, I worked on CAD and machine learning algorithms for hull optimi
 ![image]({{ page.img | relative_url }})  
 
 Genetic Algorithm Data Output  
-![ga-data]({{ '/assets/img/ga-data.png' | relative_url }})
+![image]({{ '/assets/img/ga-data.png' | relative_url }})
 
 Hull Chamfer Distance Minimization Visual  
-![hull-overlay]({{ '/assets/img/hull-overlay.png' | relative_url }})
+![image]({{ '/assets/img/hull-overlay.png' | relative_url }})
