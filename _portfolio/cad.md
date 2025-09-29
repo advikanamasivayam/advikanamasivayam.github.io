@@ -16,6 +16,9 @@ Watch Holder (2 halves snap together for cleaner and faster print)
 Badminton Racket Handle  
 <img src="{{ "/assets/img/portfolio/handle.png" | relative_url }}" alt="Badminton Racket Handle" width="50%">
 
+Snap-fit Box  
+<img src="{{ "/assets/img/portfolio/snap-box.png" | relative_url }}" alt="Snap-fit Box" width="50%">
+
 Clothes Hanger  
 <img src="{{ "/assets/img/portfolio/hanger.png" | relative_url }}" alt="Clothes Hanger" width="50%">
 
