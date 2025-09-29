@@ -1,15 +1,24 @@
 ---
 layout: post
-title: Elevator
+title: Elevator Model
 img: "assets/img/portfolio/elevator.jpg"
 date: 2024-01-01
 tags: [CAD, VEXcode]
 
 ---
-As a project for my robotics class, we created a functional elevator, going through the design process and iterating over our ideas.
+As a project for my robotics class, we created a functional elevator model, going through the design process and iterating over our ideas.
 
 Prototype  
 ![image]({{ "/assets/img/portfolio/elevatorp.png" | relative_url }})
 
 Final Product  
 ![image]({{ page.img | relative_url }})
+![image]({{ "/assets/img/portfolio/elevatorback.jpg" | relative_url }})
+
+<iframe width="1120" height="630"
+        src="https://www.youtube.com/embed/1K5FG4cNNhs"
+        title="YouTube video player"
+        frameborder="0"
+        allowfullscreen></iframe>
+        
+</video>
