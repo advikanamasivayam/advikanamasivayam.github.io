@@ -8,20 +8,22 @@ tags: [CAD]
 Some functional parts I've designed and 3D printed!
 
 Glasses Case  
-![image]({{ "/assets/img/portfolio/glasses.png" | relative_url }})
+<img src="{{ "/assets/img/portfolio/glasses.png" | relative_url }}" alt="Glasses Case" width="50%">
+
+Watch Holder
+<img src="{{ "/assets/img/portfolio/watch.png" | relative_url }}" alt="Watch Holder" width="50%">
 
 Badminton Racket Handle  
-![image]({{ "/assets/img/portfolio/handle.png" | relative_url }})
+<img src="{{ "/assets/img/portfolio/handle.png" | relative_url }}" alt="Badminton Racket Handle" width="50%">
 
 Clothes Hanger  
-![image]({{ "/assets/img/portfolio/hanger.png" | relative_url }})
+<img src="{{ "/assets/img/portfolio/hanger.png" | relative_url }}" alt="Clothes Hanger" width="50%">
 
 Stationery Holder  
-![image]({{ "/assets/img/portfolio/penholder.png" | relative_url }})
+<img src="{{ "/assets/img/portfolio/penholder.png" | relative_url }}" alt="Stationery Holder" width="50%">
 
 Pi Day Decorations  
-![image]({{ "/assets/img/portfolio/pi.png" | relative_url }})
+<img src="{{ "/assets/img/portfolio/pi.png" | relative_url }}" alt="Pi Day Decorations" width="50%">
 
 SD Card Holder  
-![image]({{ "/assets/img/portfolio/sd.png" | relative_url }})
-
+<img src="{{ "/assets/img/portfolio/sd.png" | relative_url }}" alt="SD Card Holder" width="50%">
