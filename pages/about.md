@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 feature-img: "assets/img/earth.jpg"
 
-tags: [Page]
 ---
 ![Advika Namasivayam](/assets/img/profile.jpg){: style="float: left; margin-right: 20px; margin-bottom: 10px; width: 150px; border-radius: 50%; object-fit: cover; aspect-ratio: 1/1;"}
 
