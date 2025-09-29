@@ -1,6 +1,42 @@
 <style>
-/* force scrollbar */
-html { overflow-y: scroll; }
+  /* force scrollbar */
+  html {
+    overflow-y: scroll;
+  }
+
+  /* Style for the main grid container */
+  .grid {
+    margin: 0 auto;
+  }
+
+  /* Style for the container of each portfolio item */
+  .grid-item {
+    margin-bottom: 15px; /* Adds space between the items */
+    break-inside: avoid; /* Prevents items from breaking across columns */
+  }
+
+  /* Style for the content/title block below the image */
+  .grid-item-content {
+    padding: 15px;
+    background: #f9f9f9; /* A light background for the title */
+    border: 1px solid #eee;
+    border-top: none; /* Removes the border between image and title */
+  }
+
+  /* Style for the title text */
+  .grid-item-content h3 {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #333; /* Darker text for readability */
+  }
+
+  /* Ensure images are responsive within their container */
+  .grid-item img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
 </style>
 
 <div id="masonry" class="grid">
@@ -9,9 +45,14 @@ html { overflow-y: scroll; }
 
   {% assign sorted = site.portfolio | sort: "date" | reverse %}
   {% for item in sorted %}
+    <div class="grid-item">
       <a href="{{ item.url | relative_url }}">
-        <img src="{{ item.img | relative_url }}" alt="{{ item.title }}" class="grid-item" style="padding:0;">
+        <img src="{{ item.img | relative_url }}" alt="{{ item.title }}">
       </a>
+      <div class="grid-item-content">
+        <h3>{{ item.title }}</h3>
+      </div>
+    </div>
   {% endfor %}
 </div>
 
