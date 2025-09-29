@@ -10,8 +10,8 @@ Some functional parts I've designed and 3D printed!
 Glasses Case  
 <img src="{{ "/assets/img/portfolio/glasses.png" | relative_url }}" alt="Glasses Case" width="50%">
 
-Watch Holder
-<img src="{{ "/assets/img/portfolio/watch.png" | relative_url }}" alt="Watch Holder" width="50%">
+Watch Holder (2 halves snap together for cleaner and faster print)  
+<img src="{{ "/assets/img/portfolio/watch-holder.png" | relative_url }}" alt="Watch Holder" width="50%">
 
 Badminton Racket Handle  
 <img src="{{ "/assets/img/portfolio/handle.png" | relative_url }}" alt="Badminton Racket Handle" width="50%">
