@@ -3,7 +3,7 @@ layout: post
 title: Engineers Without Borders Dispensary CAD
 img: "assets/img/portfolio/dispensary.png"
 date: 2024-12-01
-tags: [CAD]
+tags: [CAD, Fusion 360]
 ---
 As a part of the MIT Engineers Without Borders Health & Sanitation Team, I worked on the CAD model of the healthcare dispensary that we implemented in Mkutani, Tanzania, using Fusion 360. This dispensary   
 
