@@ -7,7 +7,6 @@ gallery_path: "assets/img/pexels"
 excluded: true
 position: 3
 hide: true
-tags: [Page]
 ---
 
 This is a photo gallery made from the static files in the `assets/img/pexels` folder. 
