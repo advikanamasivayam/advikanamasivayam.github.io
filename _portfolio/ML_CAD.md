@@ -23,9 +23,10 @@ Over the summer, I worked on CAD and machine learning algorithms for hull optimi
 Usually these are generated as individual faces and then combined due to the sharp edges  
 <img src="{{ "/assets/img/portfolio/icosahedron.png" | relative_url }}" alt="Icosahedron" width="50%">
 <div style="display: flex;">
-    <img src="{{ "/assets/img/portfolio/prisms.png" | relative_url }}" alt="Prisms" style="width: 49%;">
-    <img src="{{ "/assets/img/portfolio/platonic.png" | relative_url }}" alt="Platonic Solids" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/prisms.png" | relative_url }}" alt="Prisms" style="width: 47%;">
+    <img src="{{ "/assets/img/portfolio/platonic.png" | relative_url }}" alt="Platonic Solids" style="width: 52%;">
 </div>
+
 <div style="display: flex;">
     <img src="{{ "/assets/img/portfolio/square-pipe.png" | relative_url }}" alt="square-pipe" style="width: 49%;">
     <img src="{{ "/assets/img/portfolio/half-pipe.png" | relative_url }}" alt="half-pipe.png" style="width: 49%;">
