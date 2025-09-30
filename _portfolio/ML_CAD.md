@@ -2,6 +2,7 @@
 layout: post
 title: MIT DeCoDE Lab ML for CAD UROP
 img: "assets/img/portfolio/chamfer-distance.png"
+feature-img: "assets/img/portfolio/chamfer-distance.png"
 date: 2025-06-01
 tags: [Research, CAD, Rhinoceros 3D, Python]
 ---
