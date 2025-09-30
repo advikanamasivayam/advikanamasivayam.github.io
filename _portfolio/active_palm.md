@@ -16,17 +16,19 @@ I used SolidWorks to CAD the design of the frame that was to hold the vine robot
   Your browser does not support the video tag.
 </video>
 
-**Rig**
-<img src="{{ "/assets/img/portfolio/rig-cad.png" | relative_url }}" alt="Rig CAD" width="50%"><img src="{{ "/assets/img/portfolio/annotation.png" | relative_url }}" alt="Annotation" width="50%">
-
-**Vine Robot Base**
-<img src="{{ "/assets/img/portfolio/base.jpg" | relative_url }}" alt="Base" width="100%">
-
-**Circuit Diagram**
-<img src="{{ "/assets/img/portfolio/circuit.png" | relative_url }}" alt="Circuit" width="100%">
-
 <img src="{{ "/assets/img/portfolio/rig.jpg" | relative_url }}"
      alt="Rig"
      width="75%"
      style="display:block; margin-left:auto; margin-right:auto;">
 
+**Rig**
+<img src="{{ "/assets/img/portfolio/rig-cad.png" | relative_url }}" alt="Rig CAD" width="50%"><img src="{{ "/assets/img/portfolio/annotation.png" | relative_url }}" alt="Annotation" width="50%">
+
+**Vine Robot Base**
+<img src="{{ "/assets/img/portfolio/base.jpg" | relative_url }}"
+     alt="Rig"
+     width="60%"
+     style="display:block; margin-left:auto; margin-right:auto;">
+
+**Circuit Diagram**
+<img src="{{ "/assets/img/portfolio/circuit.png" | relative_url }}" alt="Circuit" width="100%">
