@@ -8,7 +8,10 @@ tags: [CAD]
 Some functional parts I've designed and 3D printed!
 
 Glasses Case  
-<img src="{{ "/assets/img/portfolio/glasses.png" | relative_url }}" alt="Glasses Case" width="50%"><img src="{{ "/assets/img/portfolio/glasses-closed.png" | relative_url }}" alt="Glasses Case" width="50%">  
+<div class="img-row">
+  <img src="{{ "/assets/img/portfolio/glasses.png" | relative_url }}" alt="Glasses Case">
+  <img src="{{ "/assets/img/portfolio/glasses-closed.png" | relative_url }}" alt="Glasses Case">
+</div>
 <img src="{{ "/assets/img/portfolio/glasses-print-open.jpg" | relative_url }}" alt="Glasses Case" width="50%"><img src="{{ "/assets/img/portfolio/glasses-print-closed.jpg" | relative_url }}" alt="Glasses Case" width="50%">
 
 Watch Holder (2 halves snap together for cleaner and faster print)  
