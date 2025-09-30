@@ -13,7 +13,10 @@ As a project for my robotics class, we created a functional elevator model, goin
 <img src="{{ "/assets/img/portfolio/elevatorp.png" | relative_url }}" alt="Elevator Front" width="70%">
 
 **Final Product**  
-<img src="{{ "/assets/img/portfolio/elevator.jpg" | relative_url }}" alt="Elevator Front" width="50%"><img src="{{ "/assets/img/portfolio/elevatorback.jpg" | relative_url }}" alt="Elevator Back" width="50%">
+<div style="display: flex;">
+    <img src="{{ "/assets/img/portfolio/elevator.jpg" | relative_url }}" alt="Elevator Front" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/elevatorback.jpg" | relative_url }}" alt="Elevator Back" style="width: 49%;">
+</div>
 
 <iframe width="1120" height="630"
         src="https://www.youtube.com/embed/1K5FG4cNNhs?mute=1"
