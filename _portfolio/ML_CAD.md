@@ -12,22 +12,20 @@ Over the summer, I worked on CAD and machine learning algorithms for hull optimi
 <img src="{{ "/assets/img/portfolio/ga-data.png" | relative_url }}" alt="Genetic Algorithm output" width="75%">
 
 **Hull Chamfer Distance Minimization Visual**  
-<div style="display: flex;">
+<div style="display: flex; margin-bottom: 10px;">
     <img src="{{ "/assets/img/portfolio/hull-overlay.png" | relative_url }}" alt="Hull Overlay" style="width: 49%;">
     <img src="{{ "/assets/img/portfolio/chamfer-distance.png" | relative_url }}" alt="Chamfer Distance" style="width: 49%;">
 </div>
 
-
-
 **Generating single continuous surfaces using b-spline NURBS surface**
 Usually these are generated as individual faces and then combined due to the sharp edges  
 <img src="{{ "/assets/img/portfolio/icosahedron.png" | relative_url }}" alt="Icosahedron" width="50%">
-<div style="display: flex;">
+<div style="display: flex; margin-bottom: 10px;">
     <img src="{{ "/assets/img/portfolio/prisms.png" | relative_url }}" alt="Prisms" style="width: 47%;">
     <img src="{{ "/assets/img/portfolio/platonic.png" | relative_url }}" alt="Platonic Solids" style="width: 52%;">
 </div>
 
-<div style="display: flex;">
+<div style="display: flex; margin-bottom: 10px;">
     <img src="{{ "/assets/img/portfolio/square-pipe.png" | relative_url }}" alt="square-pipe" style="width: 49%;">
     <img src="{{ "/assets/img/portfolio/half-pipe.png" | relative_url }}" alt="half-pipe.png" style="width: 49%;">
 </div>
