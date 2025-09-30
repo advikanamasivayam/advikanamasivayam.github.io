@@ -8,10 +8,10 @@ tags: [CAD, VEXcode]
 ---
 As a project for my robotics class, we created a functional elevator model, going through the design process and iterating over our ideas.
 
-Prototype  
+**Prototype**  
 <img src="{{ "/assets/img/portfolio/elevatorp.png" | relative_url }}" alt="Elevator Front" width="70%">
 
-Final Product  
+**Final Product**  
 <img src="{{ "/assets/img/portfolio/elevator.jpg" | relative_url }}" alt="Elevator Front" width="50%"><img src="{{ "/assets/img/portfolio/elevatorback.jpg" | relative_url }}" alt="Elevator Back" width="50%">
 
 <iframe width="1120" height="630"
