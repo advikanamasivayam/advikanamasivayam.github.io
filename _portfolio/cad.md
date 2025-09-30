@@ -28,7 +28,7 @@ Stationery Holder
 
 Pi Day Decorations
 <img src="{{ "/assets/img/portfolio/pi.png" | relative_url }}" alt="Pi Day Decorations" width="50%">  
-<img src="{{ "/assets/img/portfolio/tin.jpg" | relative_url }}" alt="Pi Day Decorations" width="50%"><img src="{{ "/assets/img/portfolio/lid.jpg" | relative_url }}" alt="Pi Day Decorations" width="50%">
+<img src="{{ "/assets/img/portfolio/tin.JPG" | relative_url }}" alt="Pi Day Decorations" width="50%"><img src="{{ "/assets/img/portfolio/lid.JPG" | relative_url }}" alt="Pi Day Decorations" width="50%">
 
 SD Card Holder  
 <img src="{{ "/assets/img/portfolio/sd.png" | relative_url }}" alt="SD Card Holder" width="50%">
