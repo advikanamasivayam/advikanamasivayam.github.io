@@ -20,5 +20,3 @@ Final Product
         title="YouTube video player"
         frameborder="0"
         allowfullscreen></iframe>
-        
-</video>
