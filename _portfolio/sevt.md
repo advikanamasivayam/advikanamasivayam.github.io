@@ -16,7 +16,10 @@ I am currently leading the design and fabrication of the roll cage for the MIT S
      style="display:block; margin-left:auto; margin-right:auto;">
      
 **The Roll Cage**  
-<img src="{{ "/assets/img/portfolio/rc.png" | relative_url }}" alt="Roll Cage" width="48%"><img src="{{ "/assets/img/portfolio/solstice-inside.png" | relative_url }}" alt="Roll Cage" width="48%">
+<div style="display: flex;">
+    <img src="{{ "/assets/img/portfolio/rc.png" | relative_url }}" alt="Roll Cage" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/solstice-inside.png" | relative_url }}" alt="Roll Cage" style="width: 49%;">
+</div>
 
 
 **Ansys FEA**  
