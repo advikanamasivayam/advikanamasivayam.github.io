@@ -7,31 +7,29 @@ tags: [CAD]
 ---
 Some functional parts I've designed and 3D printed!
 
-Glasses Case  
-<div class="img-row">
-  <img src="{{ "/assets/img/portfolio/glasses.png" | relative_url }}" alt="Glasses Case" width="50%">
-  <img src="{{ "/assets/img/portfolio/glasses-closed.png" | relative_url }}" alt="Glasses Case" width="50%">
-</div>
+**Glasses Case**  
+<img src="{{ "/assets/img/portfolio/glasses.png" | relative_url }}" alt="Glasses Case" width="50%"><img src="{{ "/assets/img/portfolio/glasses-closed.png" | relative_url }}" alt="Glasses Case" width="50%">
 <img src="{{ "/assets/img/portfolio/glasses-print-open.jpg" | relative_url }}" alt="Glasses Case" width="50%"><img src="{{ "/assets/img/portfolio/glasses-print-closed.jpg" | relative_url }}" alt="Glasses Case" width="50%">
 
-Watch Holder (2 halves snap together for cleaner and faster print)  
+**Watch Holder** (2 halves snap together for cleaner and faster print)  
 <img src="{{ "/assets/img/portfolio/watch-holder.png" | relative_url }}" alt="Watch Holder" width="50%">
 
-Badminton Racket Handle  
+**Badminton Racket Handle**  
 <img src="{{ "/assets/img/portfolio/handle.png" | relative_url }}" alt="Badminton Racket Handle" width="25%">
 
-Snap-fit Box  
+**Snap-fit Box**  
 <img src="{{ "/assets/img/portfolio/snap-box.png" | relative_url }}" alt="Snap-fit Box" width="50%">
 
-Clothes Hanger  
+**Clothes Hanger**  
 <img src="{{ "/assets/img/portfolio/hanger.png" | relative_url }}" alt="Clothes Hanger" width="50%">
 
-Stationery Holder  
+**Stationery Holder**  
 <img src="{{ "/assets/img/portfolio/penholder.png" | relative_url }}" alt="Stationery Holder" width="50%">
 
-Pi Day Decorations
+**Pi Day Decorations**
+
 <img src="{{ "/assets/img/portfolio/pi.png" | relative_url }}" alt="Pi Day Decorations" width="50%">  
 <img src="{{ "/assets/img/portfolio/tin.JPG" | relative_url }}" alt="Pi Day Decorations" width="50%"><img src="{{ "/assets/img/portfolio/lid.JPG" | relative_url }}" alt="Pi Day Decorations" width="50%">
 
-SD Card Holder  
+**SD Card Holder**  
 <img src="{{ "/assets/img/portfolio/sd.png" | relative_url }}" alt="SD Card Holder" width="50%">
