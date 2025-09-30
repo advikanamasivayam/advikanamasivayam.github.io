@@ -16,7 +16,8 @@ During my freshman year at MIT, I worked on a Pulsed Laser Experiment research p
         frameborder="0"
         allowfullscreen></iframe>
 
-_**3D Printed Parts for Consist Data Collection**_  
+
+_**3D Printed Parts for Consistent Data Collection**_  
 
 **Acrylic Holder**  
 <img src="{{ "/assets/img/portfolio/acrylic-holder.png" | relative_url }}" alt="Acrylic Holder" width="50%">
