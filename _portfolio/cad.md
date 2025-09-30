@@ -2,6 +2,7 @@
 layout: post
 title: CAD
 img: "assets/img/portfolio/glasses.png"
+feature-img: "assets/img/portfolio/glasses.png" 
 date: 2024-09-01
 tags: [CAD]
 ---
