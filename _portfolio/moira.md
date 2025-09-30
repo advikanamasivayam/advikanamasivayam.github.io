@@ -1,7 +1,6 @@
 ---
 layout: post
-title: UNO Robotics Internship 
-feature-img: "assets/img/portfolio/moira.png"
+title: MOdular Integration Robotics Architecture 
 img: "assets/img/portfolio/moira.png"
 date: 2022-06-01
 tags: [Research, CAD, Onshape, Arduino]
