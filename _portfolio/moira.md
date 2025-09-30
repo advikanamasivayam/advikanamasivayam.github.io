@@ -14,8 +14,8 @@ As a robotics intern for Dr. Ada-Rhodes Short at the University of Nebraska Omah
 <div style="display: flex;">
     <img src="{{ "/assets/img/portfolio/moira-first.jpg" | relative_url }}" alt="Moira" style="width: 49%;">
     <img src="{{ "/assets/img/portfolio/moira-second.jpg" | relative_url }}" alt="Moira" style="width: 49%;">
-</div>
-
+</div><br>
+<br>
 <img src="{{ "/assets/img/portfolio/moira-top.jpg" | relative_url }}" alt="Moira" width="50%">
 
 <img src="{{ "/assets/img/portfolio/moira-doc.jpg" | relative_url }}" alt="Moira Doc" width="100%">
