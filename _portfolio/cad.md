@@ -9,8 +9,15 @@ tags: [CAD]
 Some functional parts I've designed and 3D printed!
 
 **Glasses Case**  
-<img src="{{ "/assets/img/portfolio/glasses.png" | relative_url }}" alt="Glasses Case" width="50%"><img src="{{ "/assets/img/portfolio/glasses-closed.png" | relative_url }}" alt="Glasses Case" width="50%">
-<img src="{{ "/assets/img/portfolio/glasses-print-open.jpg" | relative_url }}" alt="Glasses Case" width="50%"><img src="{{ "/assets/img/portfolio/glasses-print-closed.jpg" | relative_url }}" alt="Glasses Case" width="50%">
+<div style="display: flex;">
+    <img src="{{ "/assets/img/portfolio/glasses.png" | relative_url }}" alt="Glasses Case" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/glasses-closed.png" | relative_url }}" alt="Glasses Case" style="width: 49%;">
+</div>
+
+<div style="display: flex;">
+    <img src="{{ "/assets/img/portfolio/glasses-print-open.jpg" | relative_url }}" alt="Glasses Case" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/glasses-print-closed.jpg" | relative_url }}" alt="Glasses Case" style="width: 49%;">
+</div>
 
 **Watch Holder** (2 halves snap together for cleaner and faster print)  
 <img src="{{ "/assets/img/portfolio/watch-holder.png" | relative_url }}" alt="Watch Holder" width="50%">
@@ -28,9 +35,11 @@ Some functional parts I've designed and 3D printed!
 <img src="{{ "/assets/img/portfolio/penholder.png" | relative_url }}" alt="Stationery Holder" width="50%">
 
 **Pi Day Decorations**
-
 <img src="{{ "/assets/img/portfolio/pi.png" | relative_url }}" alt="Pi Day Decorations" width="50%">  
-<img src="{{ "/assets/img/portfolio/tin.JPG" | relative_url }}" alt="Pi Day Decorations" width="50%"><img src="{{ "/assets/img/portfolio/lid.JPG" | relative_url }}" alt="Pi Day Decorations" width="50%">
+<div style="display: flex;">
+    <img src="{{ "/assets/img/portfolio/tin.JPG" | relative_url }}" alt="Pi Day Decorations" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/lid.JPG" | relative_url }}" alt="Pi Day Decorations" style="width: 49%;">
+</div>
 
 **SD Card Holder**  
 <img src="{{ "/assets/img/portfolio/sd.png" | relative_url }}" alt="SD Card Holder" width="50%">
