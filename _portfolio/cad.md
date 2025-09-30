@@ -23,7 +23,7 @@ Some functional parts I've designed and 3D printed!
 <img src="{{ "/assets/img/portfolio/watch-holder.png" | relative_url }}" alt="Watch Holder" width="50%">
 
 **Badminton Racket Handle**  
-<img src="{{ "/assets/img/portfolio/handle.png" | relative_url }}" alt="Badminton Racket Handle" width="25%">
+<img src="{{ "/assets/img/portfolio/handle.png" | relative_url }}" alt="Badminton Racket Handle" width="10%">
 
 **Snap-fit Box**  
 <img src="{{ "/assets/img/portfolio/snap-box.png" | relative_url }}" alt="Snap-fit Box" width="50%">
