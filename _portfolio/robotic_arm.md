@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Robotic Arm
+title: Robotic Arm Control System
 img: "assets/img/portfolio/robotic_arm.png"
 feature-img: "assets/img/portfolio/ar4.JPG"
 date: 2025-01-01
