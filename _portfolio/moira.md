@@ -8,12 +8,16 @@ tags: [Research, CAD, Onshape, Arduino]
 
 As a robotics intern for Dr. Ada-Rhodes Short at the University of Nebraska Omaha, I designed, built, and programmed a modular robot with interchangeable components using CAD, 3D printing, laser cutting, and Arduino, following Agile development principles. I contributed to the development of MoIRA (MOdular Integration Robotics Architecture) Gen 1, a NASA-sponsored terrain exploration project, optimizing its design to reduce print time by 35%.
 
-<div style="position:relative;width:100%;padding-top:141.42%;"> <!-- approx. 1:√2 for PDF aspect -->
-  <iframe
-    src="{{ '/assets/pdf/moira-doc.pdf' | relative_url }}"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;"
-    type="application/pdf"
-  ></iframe>
-</div>
+<img src="{{ "/assets/img/portfolio/moira.png" | relative_url }}" alt="Jaw Aligner" width="100%">
 
-<p><a href="{{ '/assets/pdf/moira-doc.pdf' | relative_url }}" target="_blank">Download PDF</a></p>
+<img src="{{ "/assets/img/portfolio/moira-doc.jpg" | relative_url }}" alt="Jaw Aligner" width="100%">
+
+Motor Casing
+<img src="{{ "/assets/img/portfolio/motor-casing.png" | relative_url }}" alt="Motor Casing" width="100%">
+
+Clip Connection Protoypes  
+<img src="{{ "/assets/img/portfolio/clip-1-1.png" | relative_url }}" alt="Clip 1" width="50%"><img src="{{ "/assets/img/portfolio/clip-1-2.png" | relative_url }}" alt="Clip 1" width="50%">
+
+<img src="{{ "/assets/img/portfolio/clip-2.png" | relative_url }}" alt="Clip 2" width="50%">
+
+<img src="{{ "/assets/img/portfolio/clip-3-1.png" | relative_url }}" alt="Clip 3" width="50%"><img src="{{ "/assets/img/portfolio/clip-3-2.png" | relative_url }}" alt="Clip 3" width="50%">
