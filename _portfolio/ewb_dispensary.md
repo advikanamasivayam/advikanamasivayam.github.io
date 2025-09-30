@@ -2,6 +2,7 @@
 layout: post
 title: Engineers Without Borders Dispensary
 img: "assets/img/portfolio/dispensary.png"
+feature-img: "assets/img/portfolio/dispensary.png" 
 date: 2024-12-01
 tags: [CAD, Fusion 360]
 ---
