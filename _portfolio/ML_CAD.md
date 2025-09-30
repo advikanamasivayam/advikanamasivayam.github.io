@@ -2,14 +2,13 @@
 layout: post
 title: MIT DeCoDE Lab ML for CAD UROP
 img: "assets/img/portfolio/chamfer-distance.png"
-feature-img: "assets/img/portfolio/hull-overlay.png"
 date: 2025-06-01
 tags: [Research, CAD, Rhinoceros 3D, Python]
 ---
 Over the summer, I worked on CAD and machine learning algorithms for hull optimization and a surface generation research project with Myles Wortham for the Design Computation and Digital Engineering Lab of Professor Faez Ahmed. In this process, I developed Python and Rhino pipelines for B-spline surface generation and CAD mesh repair with Git version control, improving geometric accuracy over traditional mesh-based methods. I also implemented ship-hull optimization using genetic algorithms (an evolutionary AI technique) to generate physically accurate hull models.
 
 **Genetic Algorithm Data Output**  
-<img src="{{ "/assets/img/portfolio/hull-data.png" | relative_url }}" alt="Genetic Algorithm output" width="75%">
+<img src="{{ "/assets/img/portfolio/ga-data.png.png" | relative_url }}" alt="Genetic Algorithm output" width="75%">
 
 **Hull Chamfer Distance Minimization Visual**  
 <img src="{{ "/assets/img/portfolio/hull-overlay.png" | relative_url }}" alt="Hull Overlay" width="75%"><img src="{{ "/assets/img/portfolio/chamfer-distance.png" | relative_url }}" alt="Chamfer Distance" width="50%">
