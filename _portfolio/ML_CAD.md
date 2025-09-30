@@ -13,8 +13,8 @@ Genetic Algorithm Data Output
 Hull Chamfer Distance Minimization Visual  
 <img src="{{ "/assets/img/portfolio/hull-overlay.png" | relative_url }}" alt="Hull Overlay" width="50%"><img src="{{ "/assets/img/portfolio/chamfer-distance.png" | relative_url }}" alt="Chamfer Distance" width="50%">
 
-Generating single continuous surfaces using b-splne NURBS surface - usually these are generated as individual faces and then combined due to the sharp edges
-<img src="{{ "/assets/img/portfolio/platonic.png" | relative_url }}" alt="Platonic Solids" width="50%"><img src="{{ "/assets/img/portfolio/icosahedron.png" | relative_url }}" alt="icosahedron" width="50%"><img src="{{ "/assets/img/portfolio/prisms.png" | relative_url }}" alt="prisms" width="50%"><img src="{{ "/assets/img/portfolio/square-pipe.png" | relative_url }}" alt="square-pipe" width="50%"><img src="{{ "/assets/img/portfolio/half-pipe.png" | relative_url }}" alt="half-pipe.png" width="50%">  
+Generating single continuous surfaces using b-splne NURBS surface - usually these are generated as individual faces and then combined due to the sharp edges  
+<img src="{{ "/assets/img/portfolio/platonic.png" | relative_url }}" alt="Platonic Solids" width="100%"><img src="{{ "/assets/img/portfolio/icosahedron.png" | relative_url }}" alt="icosahedron" width="50%"><img src="{{ "/assets/img/portfolio/prisms.png" | relative_url }}" alt="prisms" width="50%"><img src="{{ "/assets/img/portfolio/square-pipe.png" | relative_url }}" alt="square-pipe" width="50%"><img src="{{ "/assets/img/portfolio/half-pipe.png" | relative_url }}" alt="half-pipe.png" width="50%">  
 
 Varying the degree of the functions  
-<img src="{{ "/assets/img/portfolio/degs.png" | relative_url }}" alt="Degree Variations.png" width="50%">
+<img src="{{ "/assets/img/portfolio/degs.png" | relative_url }}" alt="Degree Variations.png" width="100%">
