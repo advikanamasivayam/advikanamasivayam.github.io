@@ -11,21 +11,20 @@ Over the summer, I worked on soft vine robot actuation research project with Ken
 
 I used SolidWorks to CAD the design of the frame that was to hold the vine robot and manufactured it. I then printed the vine robot base and assembled it to be tested.
 
-<video width="900" controls>
+<video width="75%" controls>
   <source src="{{ '/assets/video/active-palm-demo.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-<img src="{{ "/assets/img/portfolio/rig.jpg" | relative_url }}"
-     alt="Rig"
-     width="75%"
-     style="display:block; margin-left:auto; margin-right:auto;">
 
 **Rig**
 <div style="display: flex;">
     <img src="{{ "/assets/img/portfolio/rig-cad.png" | relative_url }}" alt="Rig CAD" style="width: 49%;">
     <img src="{{ "/assets/img/portfolio/annotation.png" | relative_url }}" alt="Annotation" style="width: 49%;">
 </div>
+<img src="{{ "/assets/img/portfolio/rig.jpg" | relative_url }}"
+     alt="Rig"
+     width="75%"
+     style="display:block; margin-left:auto; margin-right:auto;">
 
 **Vine Robot Base**
 <img src="{{ "/assets/img/portfolio/base.jpg" | relative_url }}"
