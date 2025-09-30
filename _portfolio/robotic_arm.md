@@ -25,7 +25,7 @@ Acrylic Holder
 <img src="{{ "/assets/img/portfolio/acrylic-holder.png" | relative_url }}" alt="Acrylic Holder" width="50%">
 
 Jaw Alignment  
-<div style="display: flex;">
+<div style="display: flex; margin-bottom: 10px;">
     <img src="{{ "/assets/img/portfolio/jaw-aligner-1.jpg" | relative_url }}" alt="Jaw Aligner" style="width: 49%;">
     <img src="{{ "/assets/img/portfolio/jaw-aligner-2.jpg" | relative_url }}" alt="Jaw Aligner" style="width: 49%;">
 </div>
