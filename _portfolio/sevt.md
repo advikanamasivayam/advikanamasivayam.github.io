@@ -25,11 +25,11 @@ I am currently leading the design and fabrication of the roll cage for the MIT S
 **Ansys FEA**  
 <img src="{{ "/assets/img/portfolio/rc-fea.png" | relative_url }}" alt="Roll Cage FEA" width="100%">
 
-<iframe width="48%" height="600"
+<iframe width="48%" height="500"
         src="https://www.youtube.com/embed/Yhg5BniK5aU?mute=1"
         title="YouTube video player"
         frameborder="0"
-        allowfullscreen></iframe><iframe width="48%" height="600"
+        allowfullscreen></iframe><iframe width="48%" height="500"
         src="https://www.youtube.com/embed/7fqz2cTJykw?mute=1"
         title="YouTube video player"
         frameborder="0"
