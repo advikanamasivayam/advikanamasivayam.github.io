@@ -8,7 +8,8 @@ tags: [CAD]
 Some functional parts I've designed and 3D printed!
 
 Glasses Case  
-<img src="{{ "/assets/img/portfolio/glasses.png" | relative_url }}" alt="Glasses Case" width="50%"><img src="{{ "/assets/img/portfolio/glasses-closed.png" | relative_url }}" alt="Glasses Case" width="50%">
+<img src="{{ "/assets/img/portfolio/glasses.png" | relative_url }}" alt="Glasses Case" width="50%"><img src="{{ "/assets/img/portfolio/glasses-closed.png" | relative_url }}" alt="Glasses Case" width="50%">  
+<img src="{{ "/assets/img/portfolio/glasses-print-open.jpg" | relative_url }}" alt="Glasses Case" width="50%"><img src="{{ "/assets/img/portfolio/glasses-print-closed.jpg" | relative_url }}" alt="Glasses Case" width="50%">
 
 Watch Holder (2 halves snap together for cleaner and faster print)  
 <img src="{{ "/assets/img/portfolio/watch-holder.png" | relative_url }}" alt="Watch Holder" width="50%">
@@ -25,8 +26,9 @@ Clothes Hanger
 Stationery Holder  
 <img src="{{ "/assets/img/portfolio/penholder.png" | relative_url }}" alt="Stationery Holder" width="50%">
 
-Pi Day Decorations  
-<img src="{{ "/assets/img/portfolio/pi.png" | relative_url }}" alt="Pi Day Decorations" width="50%">
+Pi Day Decorations
+<img src="{{ "/assets/img/portfolio/pi.png" | relative_url }}" alt="Pi Day Decorations" width="50%">  
+<img src="{{ "/assets/img/portfolio/tin.jpg" | relative_url }}" alt="Pi Day Decorations" width="50%"><img src="{{ "/assets/img/portfolio/lid.jpg" | relative_url }}" alt="Pi Day Decorations" width="50%">
 
 SD Card Holder  
 <img src="{{ "/assets/img/portfolio/sd.png" | relative_url }}" alt="SD Card Holder" width="50%">
