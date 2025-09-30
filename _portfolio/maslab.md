@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MASLAB 2025
+title: Mobile Autonomous Systems Laboratory 2025
 feature-img: "assets/img/portfolio/maslab-comp.jpg"
 img: "assets/img/portfolio/maslab-comp.jpg"
 date: 2025-01-01
