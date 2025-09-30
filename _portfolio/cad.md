@@ -36,11 +36,10 @@ Some functional parts I've designed and 3D printed!
 
 **Pi Day Decorations**
 <img src="{{ "/assets/img/portfolio/pi.png" | relative_url }}" alt="Pi Day Decorations" width="50%">  
-<div style="display: flex;">
+<div style="display: flex; margin-bottom: 10px;">
     <img src="{{ "/assets/img/portfolio/tin.JPG" | relative_url }}" alt="Pi Day Decorations" style="width: 49%;">
     <img src="{{ "/assets/img/portfolio/lid.JPG" | relative_url }}" alt="Pi Day Decorations" style="width: 49%;">
-</div><br>
-<br>
+</div>
 
 **SD Card Holder**  
 <img src="{{ "/assets/img/portfolio/sd.png" | relative_url }}" alt="SD Card Holder" width="50%">
