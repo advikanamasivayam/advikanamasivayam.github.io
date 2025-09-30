@@ -11,8 +11,8 @@ I am currently leading the design and fabrication of the roll cage for the MIT S
 
 **_Solstice_**  
 <img src="{{ "/assets/img/portfolio/solstice.png" | relative_url }}"
-     alt="Rig"
-     width="75%"
+     alt="Solstice"
+     width="50%"
      style="display:block; margin-left:auto; margin-right:auto;">
      
 **The Roll Cage**  
