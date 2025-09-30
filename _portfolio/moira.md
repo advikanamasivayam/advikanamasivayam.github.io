@@ -19,11 +19,17 @@ As a robotics intern for Dr. Ada-Rhodes Short at the University of Nebraska Omah
 <img src="{{ "/assets/img/portfolio/motor-casing.png" | relative_url }}" alt="Motor Casing" width="100%">
 
 **Clip Connection Iterations**  
-<img src="{{ "/assets/img/portfolio/clip-1-1.png" | relative_url }}" alt="Clip 1" width="50%"><img src="{{ "/assets/img/portfolio/clip-1-2.png" | relative_url }}" alt="Clip 1" width="50%">
+<div style="display: flex;">
+    <img src="{{ "/assets/img/portfolio/clip-1-1.png" | relative_url }}" alt="Clip 1" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/clip-1-2.png" | relative_url }}" alt="Clip 1" style="width: 49%;">
+</div>
 
 <img src="{{ "/assets/img/portfolio/clip-2.png" | relative_url }}" alt="Clip 2" width="50%">
 
-<img src="{{ "/assets/img/portfolio/clip-3-1.png" | relative_url }}" alt="Clip 3" width="50%"><img src="{{ "/assets/img/portfolio/clip-3-2.png" | relative_url }}" alt="Clip 3" width="50%">
+<div style="display: flex;">
+    <img src="{{ "/assets/img/portfolio/clip-3-1.png" | relative_url }}" alt="Clip 3" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/clip-3-2.png" | relative_url }}" alt="Clip 3" style="width: 49%;">
+</div>
 
 <img src="{{ "/assets/img/portfolio/clips.jpg" | relative_url }}" alt="Printed Clips" width="50%">
 
