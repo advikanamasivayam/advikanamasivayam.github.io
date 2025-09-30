@@ -15,13 +15,13 @@ During my freshman year at MIT, I worked on a Pulsed Laser Experiment research p
         src="https://www.youtube.com/embed/EHbC1vgaITA"
         title="YouTube video player"
         frameborder="0"
-        allowfullscreen></iframe>
+        allowfullscreen></iframe>  
 
 
-_**3D Printed Parts for Consistent Data Collection**_  
-
-**Acrylic Holder**  
+        
+**3D Printed Parts for Consistent Data Collection**
+Acrylic Holder  
 <img src="{{ "/assets/img/portfolio/acrylic-holder.png" | relative_url }}" alt="Acrylic Holder" width="50%">
 
-**Jaw Alignment**  
+Jaw Alignment  
 <img src="{{ "/assets/img/portfolio/jaw-aligner-1.jpg" | relative_url }}" alt="Jaw Aligner" width="50%"><img src="{{ "/assets/img/portfolio/jaw-aligner-2.jpg" | relative_url }}" alt="Jaw Aligner" width="50%">
