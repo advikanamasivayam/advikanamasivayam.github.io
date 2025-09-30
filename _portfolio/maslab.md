@@ -10,7 +10,7 @@ tags: [CAD, Onshape]
           width="100%" height="800"
           style="border:none;"></iframe>
 </div>
-<img src="{{ "/assets/img/portfolio/.png" | relative_url }}" alt="maslab-comp.jpg" width="50%">
+<img src="{{ "/assets/img/portfolio/maslab-comp.jpg" | relative_url }}" alt="Competition Field" width="50%">
 <iframe width="1120" height="630"
         src="https://www.youtube.com/embed/p786dLGm0xM"
         title="YouTube video player"
