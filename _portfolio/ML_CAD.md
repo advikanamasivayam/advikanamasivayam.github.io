@@ -17,13 +17,14 @@ Over the summer, I worked on CAD and machine learning algorithms for hull optimi
     <img src="{{ "/assets/img/portfolio/chamfer-distance.png" | relative_url }}" alt="Chamfer Distance" style="width: 49%;">
 </div>
 
-**Generating single continuous surfaces using b-spline NURBS surface**
 
+
+**Generating single continuous surfaces using b-spline NURBS surface**
 Usually these are generated as individual faces and then combined due to the sharp edges  
-<img src="{{ "/assets/img/portfolio/prisms.png" | relative_url }}" alt="prisms" width="50%">
+<img src="{{ "/assets/img/portfolio/icosahedron.png" | relative_url }}" alt="Icosahedron" width="50%">
 <div style="display: flex;">
+    <img src="{{ "/assets/img/portfolio/prisms.png" | relative_url }}" alt="Prisms" style="width: 49%;">
     <img src="{{ "/assets/img/portfolio/platonic.png" | relative_url }}" alt="Platonic Solids" style="width: 49%;">
-    <img src="{{ "/assets/img/portfolio/icosahedron.png" | relative_url }}" alt="Icosahedron" style="width: 49%;">
 </div>
 <div style="display: flex;">
     <img src="{{ "/assets/img/portfolio/square-pipe.png" | relative_url }}" alt="square-pipe" style="width: 49%;">
