@@ -9,8 +9,8 @@ tags: [Research, LabVIEW, CAD, Onshape]
 During my freshman year at MIT, I worked on a Pulsed Laser Experiment research project with Mingwei Xu for the lab of Professor Cem Taşan. I designed and implemented a laser and robotic arm control system using LabVIEW and Denavit-Hartenberg Parameters to improve precision and automation in robotic manipulation, in the process collaborating with the other researchers in the lab. The goal was to be able to accurately manipulate metal microstructures using controlled patterns, which would be traced using a stationary laser and moving robotic arm.
 
 <div style="display: flex;">
-    <img src="{{ "/assets/img/portfolio/robotic_arm.png" | relative_url }}" alt="Robotic Arm" style="width: 50%;">
-    <img src="{{ "/assets/img/portfolio/ar4.JPG" | relative_url }}" alt="AR4 Arm" style="width: 50%;">
+    <img src="{{ "/assets/img/portfolio/robotic_arm.png" | relative_url }}" alt="Robotic Arm" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/ar4.JPG" | relative_url }}" alt="AR4 Arm" style="width: 49%;">
 </div>
 
 **Data Collection**  
