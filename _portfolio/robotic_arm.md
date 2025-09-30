@@ -9,17 +9,17 @@ During my freshman year at MIT, I worked on a Pulsed Laser Experiment research p
 
 <img src="{{ "/assets/img/portfolio/robotic_arm.png" | relative_url }}" alt="Robotic Arm" width="50%"><img src="{{ "/assets/img/portfolio/ar4.JPG" | relative_url }}" alt="AR4 Arm" width="50%">
 
-Data Collection  
+**Data Collection**  
 <iframe width="1120" height="630"
         src="https://www.youtube.com/embed/EHbC1vgaITA"
         title="YouTube video player"
         frameborder="0"
         allowfullscreen></iframe>
 
-**3D Printed Parts for Consist Data Collection**  
+_**3D Printed Parts for Consist Data Collection**_  
 
-Acrylic Holder  
+**Acrylic Holder**  
 <img src="{{ "/assets/img/portfolio/acrylic-holder.png" | relative_url }}" alt="Acrylic Holder" width="50%">
 
-Jaw Alignment  
+**Jaw Alignment**  
 <img src="{{ "/assets/img/portfolio/jaw-aligner-1.jpg" | relative_url }}" alt="Jaw Aligner" width="50%"><img src="{{ "/assets/img/portfolio/jaw-aligner-2.jpg" | relative_url }}" alt="Jaw Aligner" width="50%">
