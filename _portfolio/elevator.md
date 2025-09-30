@@ -2,6 +2,7 @@
 layout: post
 title: Elevator Model
 img: "assets/img/portfolio/elevator.jpg"
+feature-img: "assets/img/portfolio/elevator.jpg" 
 date: 2024-01-01
 tags: [CAD, VEXcode]
 
