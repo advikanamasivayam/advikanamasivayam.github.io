@@ -14,10 +14,10 @@ As a robotics intern for Dr. Ada-Rhodes Short at the University of Nebraska Omah
 
 <img src="{{ "/assets/img/portfolio/moira-doc.jpg" | relative_url }}" alt="Moira Doc" width="100%">
 
-Motor Casing
+**Motor Casing**
 <img src="{{ "/assets/img/portfolio/motor-casing.png" | relative_url }}" alt="Motor Casing" width="100%">
 
-Clip Connection Iterations  
+**Clip Connection Iterations**  
 <img src="{{ "/assets/img/portfolio/clip-1-1.png" | relative_url }}" alt="Clip 1" width="50%"><img src="{{ "/assets/img/portfolio/clip-1-2.png" | relative_url }}" alt="Clip 1" width="50%">
 
 <img src="{{ "/assets/img/portfolio/clip-2.png" | relative_url }}" alt="Clip 2" width="50%">
