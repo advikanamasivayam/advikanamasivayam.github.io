@@ -22,7 +22,10 @@ I used SolidWorks to CAD the design of the frame that was to hold the vine robot
      style="display:block; margin-left:auto; margin-right:auto;">
 
 **Rig**
-<img src="{{ "/assets/img/portfolio/rig-cad.png" | relative_url }}" alt="Rig CAD" width="50%"><img src="{{ "/assets/img/portfolio/annotation.png" | relative_url }}" alt="Annotation" width="50%">
+<div style="display: flex;">
+    <img src="{{ "/assets/img/portfolio/rig-cad.png" | relative_url }}" alt="Rig CAD" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/annotation.png" | relative_url }}" alt="Annotation" style="width: 49%;">
+</div>
 
 **Vine Robot Base**
 <img src="{{ "/assets/img/portfolio/base.jpg" | relative_url }}"
