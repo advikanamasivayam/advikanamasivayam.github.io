@@ -17,7 +17,7 @@ I used SolidWorks to CAD the design of the frame that was to hold the vine robot
 </video>
 
 **Rig**
-<div style="display: flex;">
+<div style="display: flex; margin-bottom: 10px;">
     <img src="{{ "/assets/img/portfolio/rig-cad.png" | relative_url }}" alt="Rig CAD" style="width: 49%;">
     <img src="{{ "/assets/img/portfolio/annotation.png" | relative_url }}" alt="Annotation" style="width: 49%;">
 </div>
