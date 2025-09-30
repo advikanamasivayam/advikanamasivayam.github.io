@@ -10,5 +10,24 @@ tags: [CAD, Onshape]
           width="100%" height="800"
           style="border:none;"></iframe>
 </div>
-
 <img src="{{ "/assets/img/portfolio/.png" | relative_url }}" alt="maslab-comp.jpg" width="50%">
+<iframe width="1120" height="630"
+        src="https://www.youtube.com/embed/p786dLGm0xM"
+        title="YouTube video player"
+        frameborder="0"
+        allowfullscreen></iframe>
+<iframe width="1120" height="630"
+        src="https://www.youtube.com/embed/BMZVafClFlY"
+        title="YouTube video player"
+        frameborder="0"
+        allowfullscreen></iframe>
+<iframe width="1120" height="630"
+        src="https://www.youtube.com/embed/KR3UmwiHx1I"
+        title="YouTube video player"
+        frameborder="0"
+        allowfullscreen></iframe>
+<iframe width="1120" height="630"
+        src="https://www.youtube.com/embed/_dEVT_NTStY"
+        title="YouTube video player"
+        frameborder="0"
+        allowfullscreen></iframe>
