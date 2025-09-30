@@ -2,3 +2,10 @@
 ---
 
 @import "type-on-strap";
+
+/* Custom image styles */
+img {
+  display: block;
+  margin: 0 auto; /* centers images; use margin:0; for flush left */
+  padding: 0;
+}
