@@ -4,7 +4,7 @@ title: CAD
 img: "assets/img/portfolio/glasses.png"
 feature-img: "assets/img/portfolio/glasses.png" 
 date: 2024-09-01
-display-date: "Ongoing"
+display_date: "Ongoing"
 tags: [CAD]
 ---
 Some functional parts I've designed and 3D printed!
