@@ -3,7 +3,7 @@ layout: post
 title: MIT Solar Electric Vehicle Team Roll Cage
 img: "assets/img/portfolio/rc-fea.png"
 feature-img: "assets/img/portfolio/rc.png"
-date: 2025-09-01
+date: 2024-09-01
 display-date: "September 2024 – Present"
 tags: [CAD, SolidWorks, FEA, Ansys]
 ---
