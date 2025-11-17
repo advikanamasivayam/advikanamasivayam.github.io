@@ -5,8 +5,8 @@ order: 4
 img: "assets/img/portfolio/rig.jpg"
 feature-img: "assets/img/portfolio/rig-cad.png" 
 tags: [Research, CAD, SolidWorks, Arduino]
+display-date: "June 2025 – Present"
 ---
-**June 2025 – Present**
 Over the summer, I worked on soft vine robot actuation research project with Kentaro Barhydt for the lab of Professor Harry Asada. I implemented a closed-loop control system for a soft vine robot for heavy industry applications. This enhanced actuation precision as I integrated PID controllers and encoders for feedback, which hadn't yet been done in this application. 
 
 I used SolidWorks to CAD the design of the frame that was to hold the vine robot and manufactured it. I then printed the vine robot base and assembled it to be tested.
