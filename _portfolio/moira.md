@@ -1,9 +1,9 @@
 ---
 layout: post
 title: MOdular Integration Robotics Architecture 
+order: 3
 img: "assets/img/portfolio/moira.png"
 feature-img: "assets/img/portfolio/moira.png"
-order: 3
 tags: [Research, CAD, Onshape, Arduino]
 ---
 **June 2022 - July 2022**
