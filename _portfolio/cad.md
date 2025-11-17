@@ -7,10 +7,10 @@ feature-img: "assets/img/portfolio/glasses.png"
 tags: [CAD]
 display-date: "Ongoing"
 ---
-### [Engineers Without Borders Dispensary]({{ "_portfolio/ewb-dispensary" | relative_url }})
+### Engineers Without Borders Dispensary - December 2024 
 
-[<img src="{{ "/assets/img/portfolio/dispensary.png" | relative_url }}" 
-      alt="Engineers Without Borders Dispensary" width="60%">]({{ "_portfolio/ewb-dispensary" | relative_url }})
+<img src="{{ "/assets/img/portfolio/dispensary.png" | relative_url }}" alt="EWB Dispensary" style="width: 60%;">
+As a part of the MIT Engineers Without Borders Health & Sanitation Team, I worked on the CAD model of the healthcare dispensary that we implemented in Mkutani, Tanzania, using Fusion 360. This project aimed to improve maternal care and overall patient care for the 4,800 people the Mkutani dispensary serves, by renovating the roof and adding in a new maternity ward.
 
 ### Glasses Case 
 <div style="display: flex;">
