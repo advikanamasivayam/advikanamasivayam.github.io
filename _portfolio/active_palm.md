@@ -1,9 +1,9 @@
 ---
 layout: post
 title: d'Arbeloff Lab Active Palm UROP
+order: 4
 img: "assets/img/portfolio/rig.jpg"
 feature-img: "assets/img/portfolio/rig-cad.png" 
-order: 4
 tags: [Research, CAD, SolidWorks, Arduino]
 ---
 **June 2025 – Present**
