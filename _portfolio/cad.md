@@ -3,10 +3,10 @@ layout: post
 title: CAD
 img: "assets/img/portfolio/glasses.png"
 feature-img: "assets/img/portfolio/glasses.png" 
-date: 2024-09-01
-display_date: "Ongoing"
+order: 5
 tags: [CAD]
 ---
+**Ongoing**
 ### [Engineers Without Borders Dispensary]({{ "portfolio/ewb_dispensary.md" | relative_url }})
 
 [<img src="{{ "/assets/img/portfolio/dispensary.png" | relative_url }}" 
