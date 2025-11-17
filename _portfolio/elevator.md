@@ -2,7 +2,7 @@
 layout: post
 title: Elevator Model
 img: "assets/img/portfolio/elevator.jpg"
-order: 8
+order: 9
 feature-img: "assets/img/portfolio/elevator.jpg" 
 tags: [CAD, VEXcode]
 display-date: "April 2023"
