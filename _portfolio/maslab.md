@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Mobile Autonomous Systems Laboratory 2025
+order: 2
 img: "assets/img/portfolio/maslab-comp.jpg"
 feature-img: "assets/img/portfolio/maslab-bot.jpg"
-date: 2025-01-05
-display_date: "January 2025"
 tags: [CAD, Onshape]
 ---
+
+**January 2025**
+
 <div class="iframe-full">
   <iframe src="https://maslab.mit.edu/2025/wiki/team15"
           width="100%" height="800"
