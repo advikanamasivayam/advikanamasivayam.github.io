@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MIT DeCoDE Lab ML for CAD UROP
+title: MIT DeCoDE Lab ML for CAD Research
 order: 7
 img: "assets/img/portfolio/chamfer-distance.png"
 feature-img: "assets/img/portfolio/platonic.png" 
