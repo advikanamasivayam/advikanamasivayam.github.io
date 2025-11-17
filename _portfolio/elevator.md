@@ -2,7 +2,7 @@
 layout: post
 title: Elevator Model
 img: "assets/img/portfolio/elevator.jpg"
-order: 7
+order: 8
 feature-img: "assets/img/portfolio/elevator.jpg" 
 tags: [CAD, VEXcode]
 ---
