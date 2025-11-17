@@ -4,11 +4,7 @@
     <a href="{{ item.url | relative_url }}" class="gallery-item">
       <img src="{{ item.img | relative_url }}" alt="{{ item.title }}">
       <div class="portfolio-date">
-        {% if item.display-date %}
-          {{ item.display-date }}
-        {% else %}
-          {{ item.date | date: "%B %-d, %Y" }}
-        {% endif %}
+        {{ item.display-date }}
       </div>
     </a>
   {% endif %}
