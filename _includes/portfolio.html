@@ -1,6 +1,9 @@
 <div class="gallery-grid">
   {% assign sorted_portfolio = site.portfolio | sort: "order" %}
   {% for item in sorted_portfolio %}
+    {% comment %}
+      Skip items marked as hidden (boolean or string), so they won't appear in the main portfolio
+    {% endcomment %}
     {% if item.hidden != true and item.hidden != "true" %}
       <a href="{{ item.url | relative_url }}" class="gallery-item">
         <img src="{{ item.img | relative_url }}" alt="{{ item.title }}">
