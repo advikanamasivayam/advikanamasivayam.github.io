@@ -1,13 +1,12 @@
 ---
 layout: post
 title: MIT Solar Electric Vehicle Team Roll Cage
+order: 1
 img: "assets/img/portfolio/rc-fea.png"
 feature-img: "assets/img/portfolio/rc.png"
-date: 2024-09-01
-display_date: "September 2024 – Present"
 tags: [CAD, SolidWorks, FEA, Ansys]
 ---
-
+**September 2024 – Present**
 
 I am currently leading the design and fabrication of the roll cage for the MIT Solar Electric Vehicle Team's new car, _Solstice_, to compete at the 2026 American Solar Challenge, a 1,500 mile route across the US. 
 
