@@ -5,8 +5,8 @@ order: 3
 img: "assets/img/portfolio/moira.png"
 feature-img: "assets/img/portfolio/moira.png"
 tags: [Research, CAD, Onshape, Arduino]
+display-date: "June 2022 - July 2022"
 ---
-**June 2022 - July 2022**
 As a robotics intern for Dr. Ada-Rhodes Short at the University of Nebraska Omaha, I designed, built, and programmed a modular robot with interchangeable components using CAD, 3D printing, laser cutting, and Arduino, following Agile development principles. I contributed to the development of MoIRA (MOdular Integration Robotics Architecture) Gen 1, a NASA-sponsored terrain exploration project, optimizing its design to reduce print time by 35%.
 
 <img src="{{ "/assets/img/portfolio/moira.png" | relative_url }}" alt="Moira" width="100%">
