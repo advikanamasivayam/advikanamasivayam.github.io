@@ -1,8 +1,10 @@
-{% assign sorted_portfolio = site.portfolio | sort: "order" %}
-{% for item in sorted_portfolio %}
-  {% unless item.hidden %}
-    <a href="{{ item.url | relative_url }}" class="gallery-item">
-      <img src="{{ item.img | relative_url }}" alt="{{ item.title }}">
-    </a>
-  {% endunless %}
-{% endfor %}
+<div class="gallery-grid">
+  {% assign sorted_portfolio = site.portfolio | sort: "order" %}
+  {% for item in sorted_portfolio %}
+    {% if item.hidden != true and item.hidden != "true" %}
+      <a href="{{ item.url | relative_url }}" class="gallery-item">
+        <img src="{{ item.img | relative_url }}" alt="{{ item.title }}">
+      </a>
+    {% endif %}
+  {% endfor %}
+</div>
