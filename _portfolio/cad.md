@@ -5,8 +5,8 @@ order: 6
 img: "assets/img/portfolio/glasses.png"
 feature-img: "assets/img/portfolio/glasses.png" 
 tags: [CAD]
+display-date: "Ongoing"
 ---
-**Ongoing**
 ### [Engineers Without Borders Dispensary]({{ "portfolio/ewb_dispensary/" | relative_url }})
 
 [<img src="{{ "/assets/img/portfolio/dispensary.png" | relative_url }}" 
