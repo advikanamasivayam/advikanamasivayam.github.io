@@ -7,9 +7,9 @@ feature-img: "assets/img/portfolio/glasses.png"
 tags: [CAD]
 display-date: "Ongoing"
 ---
-### [Engineers Without Borders Dispensary]({{ "portfolio/ewb-dispensary" | relative_url }})
+### [Engineers Without Borders Dispensary]({{ "pages_ext/ewb-dispensary" | relative_url }})
 
-[<img src="{{ "/assets/img/portfolio/dispensary.png" | relative_url }}" 
+[<img src="{{ "/assets/img/pages_ext/dispensary.png" | relative_url }}" 
       alt="Engineers Without Borders Dispensary" width="60%">]({{ "portfolio/ewb-dispensary" | relative_url }})
 
 ### Glasses Case 
