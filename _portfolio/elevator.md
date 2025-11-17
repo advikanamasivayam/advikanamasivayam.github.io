@@ -5,8 +5,9 @@ img: "assets/img/portfolio/elevator.jpg"
 order: 8
 feature-img: "assets/img/portfolio/elevator.jpg" 
 tags: [CAD, VEXcode]
+display-date: "April 2023"
+
 ---
-**April 2023**
 As a project for my robotics class, we created a functional elevator model, going through the design process and iterating over our ideas.
 
 **Prototype**  
