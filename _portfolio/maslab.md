@@ -10,7 +10,7 @@ display-date: "January 2025"
 
 <div class="iframe-full">
   <iframe src="https://maslab.mit.edu/2025/wiki/team15"
-          width="100%" height="800"
+          width="800" height="600"
           style="border:none;"></iframe>
 </div>
 <img src="{{ "/assets/img/portfolio/maslab-comp.jpg" | relative_url }}" alt="Competition Field" width="50%">
