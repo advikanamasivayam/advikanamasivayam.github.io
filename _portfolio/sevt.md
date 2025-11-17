@@ -7,7 +7,7 @@ feature-img: "assets/img/portfolio/rc.png"
 tags: [CAD, SolidWorks, FEA, Ansys]
 display-date: "September 2024 – Present"
 ---
-I am currently leading the design and fabrication of the roll cage for the MIT Solar Electric Vehicle Team's new car, _Solstice_, to compete at the 2026 American Solar Challenge, a 1,500 mile route across the US. 
+I am currently leading our 2-4 person team in the design and fabrication of the roll cage for the MIT Solar Electric Vehicle Team's new car, _Solstice_, to compete at the 2026 American Solar Challenge, a 1,500 mile route across the US. 
 
 **Roll Cage Design:**  
 <div style="display: flex;">
@@ -16,7 +16,7 @@ I am currently leading the design and fabrication of the roll cage for the MIT S
 </div>
 
 ## Design Process
-We used SolidWorks to CAD the roll cage and make sure it can be integrated with the rest of the car.
+I used SolidWorks to CAD the roll cage and make sure it can be integrated with the rest of the car.
 I have been running simulations for stress analysis using Ansys FEA to test various load cases specified by the competition guidelines. 
 <img src="{{ "/assets/img/portfolio/rc-fea.png" | relative_url }}" alt="Roll Cage FEA" width="100%">
 
