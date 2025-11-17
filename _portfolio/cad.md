@@ -7,10 +7,10 @@ date: 2024-09-01
 display_date: "Ongoing"
 tags: [CAD]
 ---
-### [Engineers Without Borders Dispensary]({{ "/cad/ewb-dispensary" | relative_url }})
+### [Engineers Without Borders Dispensary]({{ "/ewb_dispensary" | relative_url }})
 
 [<img src="{{ "/assets/img/portfolio/dispensary.png" | relative_url }}" 
-      alt="Engineers Without Borders Dispensary" width="60%">]({{ "/cad/ewb-dispensary" | relative_url }})
+      alt="Engineers Without Borders Dispensary" width="60%">]({{ "/ewb_dispensary" | relative_url }})
 
 ### [Glasses Case] 
 <div style="display: flex;">
