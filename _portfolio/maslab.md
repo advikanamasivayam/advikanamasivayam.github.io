@@ -5,9 +5,8 @@ order: 2
 img: "assets/img/portfolio/maslab-comp.jpg"
 feature-img: "assets/img/portfolio/maslab-bot.jpg"
 tags: [CAD, Onshape]
+display-date: "January 2025"
 ---
-
-**January 2025**
 
 <div class="iframe-full">
   <iframe src="https://maslab.mit.edu/2025/wiki/team15"
