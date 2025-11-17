@@ -1,8 +1,8 @@
-<div class="gallery-grid">
-  {% assign sorted_portfolio = site.portfolio | sort: "date" | reverse %}
-  {% for item in sorted_portfolio %}
+{% assign sorted_portfolio = site.portfolio | sort: "order" %}
+{% for item in sorted_portfolio %}
+  {% unless item.hidden %}
     <a href="{{ item.url | relative_url }}" class="gallery-item">
       <img src="{{ item.img | relative_url }}" alt="{{ item.title }}">
     </a>
-  {% endfor %}
-</div>
+  {% endunless %}
+{% endfor %}
