@@ -18,10 +18,10 @@ I am currently leading the design and fabrication of the roll cage for the MIT S
 ## Design Process
 We used SolidWorks to CAD the roll cage and make sure it can be integrated with the rest of the car.
 I have been running simulations for stress analysis using Ansys FEA to test various load cases specified by the competition guidelines. 
-I also worked on ensuring optimal placement of hardpoints on the mounts that connect the roll cage to the chassis of the car. The chassis is made of carbon fiber composite panels which we layed up ourselves. Throughout the design process, I made sure that the design was manufacturable, and made changes as necessary, as ease of welding had to be prioritized.
-
 <img src="{{ "/assets/img/portfolio/rc-fea.png" | relative_url }}" alt="Roll Cage FEA" width="100%">
 
+I also worked on ensuring optimal placement of hardpoints on the mounts that connect the roll cage to the chassis of the car. The chassis is made of carbon fiber composite panels which we layed up ourselves. 
+Throughout the design process, I made sure that the design was manufacturable, and made changes as necessary, as ease of welding had to be prioritized.
 
 ## Manufacturing 
 We are beginning the manufacturing process of the car and will be TIG-welding the roll cage starting in the winter. To verify that the strength of the welds is modeled accurately in the CAD and simulations, we are testing the strength of our welds using an Instron and will modify the design as needed.
