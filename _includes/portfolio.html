@@ -1,10 +1,15 @@
-<div class="gallery-grid">
-  {% assign sorted_portfolio = site.portfolio | sort: "order" %}
-  {% for item in sorted_portfolio %}
-    {% if item.hidden != true and item.hidden != "true" %}
-      <a href="{{ item.url | relative_url }}" class="gallery-item">
-        <img src="{{ item.img | relative_url }}" alt="{{ item.title }}">
-      </a>
-    {% endif %}
-  {% endfor %}
-</div>
+{% assign sorted_portfolio = site.portfolio | sort: "order" %}
+{% for item in sorted_portfolio %}
+  {% if item.hidden != true and item.hidden != "true" %}
+    <a href="{{ item.url | relative_url }}" class="gallery-item">
+      <img src="{{ item.img | relative_url }}" alt="{{ item.title }}">
+      <div class="portfolio-date">
+        {% if item.display-date %}
+          {{ item.display-date }}
+        {% else %}
+          {{ item.date | date: "%B %-d, %Y" }}
+        {% endif %}
+      </div>
+    </a>
+  {% endif %}
+{% endfor %}
