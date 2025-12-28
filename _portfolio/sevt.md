@@ -24,11 +24,15 @@ I used SolidWorks to design the roll cage and make sure it can be integrated wit
 
 Throughout the design process, I made sure that the design was manufacturable, and made changes as necessary, as ease of welding had to be prioritized. For example, when modelling welds in the CAD, I made sure that there were no welds added at the corner of gussets, which we added for strength, as a welding torch would not fit in that space.
 
+I also worked on ensuring optimal placement of hardpoints on the mounts that connect the roll cage to the chassis of the car. The chassis is made of carbon fiber composite panels which we layed up ourselves. 
+
 I ran simulations for stress analysis using Ansys FEA to test various load cases specified by the competition guidelines. The load cases were to pass when applied on both the front corners and back corners of the roll cage. There were two sideways angled loading cases, one sideways horizontal loading case, one rearward horizontal loading case, and one combined loading case to be applied on a loading patch less than 150mm in diameter. The FEA is required to use 3D elements at the joints. 
 
 <img src="{{ "/assets/img/portfolio/rc-fea.png" | relative_url }}" alt="Roll Cage FEA" width="100%">
-
-I also worked on ensuring optimal placement of hardpoints on the mounts that connect the roll cage to the chassis of the car. The chassis is made of carbon fiber composite panels which we layed up ourselves. 
+<div style="display: flex;">
+    <img src="{{ "/assets/img/portfolio/sizing.png" | relative_url }}" alt="Roll Cage" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/mesh.png" | relative_url }}" alt="Roll Cage" style="width: 49%;">
+</div>
 
 ## Manufacturing 
 We are beginning the manufacturing process of the car and will be TIG-welding the roll cage starting in the winter. We performed an Instron test to verify the strength of our welds for analysis as well. 
