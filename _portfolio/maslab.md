@@ -2,8 +2,8 @@
 layout: post
 title: Mobile Autonomous Systems Laboratory 2025
 order: 4
-img: "assets/img/portfolio/maslab-cad.jpg"
-feature-img: "assets/img/portfolio/maslab-cad.jpg"
+img: "assets/img/portfolio/maslab-cad.png"
+feature-img: "assets/img/portfolio/maslab-cad.png"
 tags: [CAD, Onshape]
 display-date: "January 2025"
 ---
