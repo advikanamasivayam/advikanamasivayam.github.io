@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Robotic Arm Control System
-order: 2
+order: 4
 img: "assets/img/portfolio/robotic_arm.png"
 feature-img: "assets/img/portfolio/ar4.JPG"
 tags: [Research, LabVIEW, CAD, Onshape]
