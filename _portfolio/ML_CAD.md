@@ -8,7 +8,7 @@ tags: [Research, CAD, Rhinoceros 3D, Python]
 display-date: "June 2025 – September 2025"
 ---
 
-Over the summer, I worked on CAD and machine learning algorithms for hull optimization and a surface generation research project with Myles Wortham for the Design Computation and Digital Engineering Lab of Professor Faez Ahmed. In this process, I developed Python and Rhino pipelines for B-spline surface generation and CAD mesh repair with Git version control, improving geometric accuracy over traditional mesh-based methods. I also implemented ship-hull optimization using genetic algorithms (an evolutionary AI technique) to generate physically accurate hull models.
+Over the summer, I worked on CAD and machine learning algorithms for hull optimization and a surface generation research project in the Design Computation and Digital Engineering Lab of Professor Faez Ahmed. In this process, I developed Python and Rhino pipelines for B-spline surface generation and CAD mesh repair with Git version control, improving geometric accuracy over traditional mesh-based methods. I also implemented ship-hull optimization using genetic algorithms (an evolutionary AI technique) to generate physically accurate hull models.
 
 **Genetic Algorithm Data Output**  
 <img src="{{ "/assets/img/portfolio/ga-data.png" | relative_url }}" alt="Genetic Algorithm output" width="75%">
