@@ -7,6 +7,6 @@ feature-img: "assets/img/earth.jpg"
 ---
 ![Advika Namasivayam](/assets/img/welding.png){: style="float: left; margin-right: 20px; margin-bottom: 10px; width: 250px; border-radius: 50%; object-fit: cover; aspect-ratio: 1/1;"}
 
-Hello! I’m Advika Namasivayam, a sophomore at MIT studying Mechanical Engineering with a concentration in Control, Instrumentation, and Robotics. I’m passionate about advancing robotic systems for space exploration, such as planetary rovers, as well as developing innovative design and control solutions for robotics across a wide range of applications.
+Hello! I’m Advika Namasivayam, a junior at MIT studying Mechanical Engineering. I’m passionate about advancing robotic systems for space exploration, such as planetary rovers, as well as developing innovative design and control solutions across a wide range of applications.
 
-I created this page using Type on Strap, which based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+I created this page using Type on Strap, which is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
