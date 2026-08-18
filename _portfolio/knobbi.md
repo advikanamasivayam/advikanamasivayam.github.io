@@ -2,8 +2,8 @@
 layout: post
 title: knobbi
 order: 2
-img: "assets/img/portfolio/knobbi.jpeg"
-feature-img: "assets/img/portfolio/knobbi.jpeg" 
+img: "assets/img/portfolio/knobbi.JPEG"
+feature-img: "assets/img/portfolio/knobbi.JPEG" 
 tags: [CAD, Onshape]
 display-date: "February 2026"
 ---
