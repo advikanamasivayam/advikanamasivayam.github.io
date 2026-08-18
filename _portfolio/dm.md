@@ -2,8 +2,8 @@
 layout: post
 title: 2.007: Design & Manufacturing I
 order: 7
-img: "assets/img/portfolio/2007.JPEG"
-feature-img: "assets/img/portfolio/2007.JPEG" 
+img: "assets/img/portfolio/dm.JPEG"
+feature-img: "assets/img/portfolio/dm.JPEG" 
 tags: [CAD, Solidworks, Manufacturing]
 display-date: "January 2026 - May 2026"
 ---
