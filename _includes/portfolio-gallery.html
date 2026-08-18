@@ -1,18 +1,22 @@
 <style>
   .grid {
-    display: grid;
+    display: grid !important;
     grid-template-columns: repeat(3, 1fr);
-    gap: 15px;
+    gap: 30px;
+    width: 100%;
     margin: 0 auto;
   }
 
   .grid-item {
+    width: 100% !important;
     min-width: 0;
+    margin: 0 !important;
   }
 
   .grid-item img {
     display: block;
     width: 100%;
+    max-width: none;
     height: auto;
   }
 
@@ -25,7 +29,7 @@
 
   .grid-item-content h3 {
     margin: 0;
-    font-size: 1rem;
+    font-size: 1.1rem;
     font-weight: bold;
     color: #333;
   }
