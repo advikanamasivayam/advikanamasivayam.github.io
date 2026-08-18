@@ -2,8 +2,8 @@
 layout: post
 title: Additive Manufacturing Engineering Internship
 order: 1
-img: "assets/img/portfolio/rig.jpg"
-feature-img: "assets/img/portfolio/rig-cad.png" 
+img: "assets/img/portfolio/ir.jpg"
+feature-img: "assets/img/portfolio/ir.jpg" 
 tags: [CAD, Creo, Siemens NX, ANSYS]
 display-date: "May 2026 – August 2026"
 ---
