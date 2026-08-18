@@ -3,7 +3,7 @@ layout: post
 title: knobbi
 order: 2
 img: "assets/img/portfolio/knobbi.jpeg"
-feature-img: "assets/img/portfolio/rig-cad.png" 
+feature-img: "assets/img/portfolio/knobbi.jpeg" 
 tags: [CAD, Onshape]
 display-date: "February 2026"
 ---
