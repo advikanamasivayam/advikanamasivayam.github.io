@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Elevator Model
+title: 2.007: Design & Manufacturing I
 img: "assets/img/portfolio/dm.png"
 order: 9
 feature-img: "assets/img/portfolio/dm.png" 
