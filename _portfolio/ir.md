@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Ingersoll Rand Engineering Intern
+title: Additive Manufacturing Engineering Internship
 order: 1
 img: "assets/img/portfolio/rig.jpg"
 feature-img: "assets/img/portfolio/rig-cad.png" 
-tags: [Research, CAD, SolidWorks, Arduino]
+tags: [CAD, Creo, Siemens NX, ANSYS]
 display-date: "May 2026 – August 2026"
 ---
 Over the summer, I worked on soft vine robot actuation research project in the d'Arbeloff Lab of Professor Harry Asada. I implemented a closed-loop control system for a soft vine robot for heavy industry applications. This enhanced actuation precision as I integrated PID controllers and encoders for feedback, which hadn't yet been done in this application. 
