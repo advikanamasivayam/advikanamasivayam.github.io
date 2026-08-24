@@ -1,7 +1,7 @@
 ---
 layout: post
-title: CAD Designs & 3D Prints
-order: 6
+title: CAD Design
+order: 8
 img: "assets/img/portfolio/glasses.png"
 feature-img: "assets/img/portfolio/glasses.png" 
 tags: [CAD]
