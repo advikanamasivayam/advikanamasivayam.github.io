@@ -1,7 +1,7 @@
 ---
 layout: post
-title: d'Arbeloff Lab Vine Robot Research
-order: 4
+title: MIT d'Arbeloff Lab Vine Robot Research
+order: 5
 img: "assets/img/portfolio/rig.jpg"
 feature-img: "assets/img/portfolio/rig-cad.png" 
 tags: [Research, CAD, SolidWorks, Arduino]
