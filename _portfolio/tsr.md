@@ -2,8 +2,8 @@
 layout: post
 title: Design and manufacturing
 order: 11
-img: "assets/img/portfolio/dmi.jpg"
-feature-img: "assets/img/portfolio/ir.jpg" 
+img: "assets/img/portfolio/dm.png"
+feature-img: "assets/img/portfolio/dm.png" 
 tags: [CAD, Creo, Siemens NX, ANSYS]
 display-date: "May 2026 – August 2026"
 ---
