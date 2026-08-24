@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MOdular Integration Robotics Architecture 
-order: 3
+order: 10
 img: "assets/img/portfolio/moira.png"
 feature-img: "assets/img/portfolio/moira.png"
 tags: [Research, CAD, Onshape, Arduino]
