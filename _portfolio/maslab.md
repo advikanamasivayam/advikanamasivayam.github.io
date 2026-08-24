@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mobile Autonomous Systems Laboratory
-order: 2
+order: 6
 img: "assets/img/portfolio/robot.png"
 feature-img: "assets/img/portfolio/robot.png"
 tags: [CAD, Onshape]
