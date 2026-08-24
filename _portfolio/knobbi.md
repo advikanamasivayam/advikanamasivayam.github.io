@@ -1,7 +1,7 @@
 ---
 layout: post
 title: knobbi
-order: 2
+order: 4
 img: "assets/img/portfolio/knobbi.JPEG"
 feature-img: "assets/img/portfolio/knobbi.JPEG" 
 tags: [CAD, Onshape]
