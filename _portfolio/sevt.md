@@ -7,7 +7,7 @@ feature-img: "assets/img/portfolio/rc-fea.png"
 tags: [CAD, SolidWorks, FEA, Ansys]
 display-date: "September 2024 – Present"
 ---
-I am currently leading our 2-4 person team in the design and fabrication of the roll cage for the MIT Solar Electric Vehicle Team's new car, _Solstice_, to compete at the 2026 American Solar Challenge, a 1,500 mile route across the US. The roll cage is a TIG-welded steel frame ensuring occupant safety.  
+I led our team in the design and fabrication of the roll cage for the MIT Solar Electric Vehicle Team's new car, _Solstice_, to compete at the 2026 Formula Sun Grand Prix in Brainerd, MN. The roll cage is a TIG-welded steel frame ensuring occupant safety.  
 
 **Roll Cage Design:**  
 <div style="display: flex;">
