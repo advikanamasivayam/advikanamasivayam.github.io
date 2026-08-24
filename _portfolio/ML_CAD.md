@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MIT DeCoDE Lab ML for CAD Research
-order: 7
+order: 9
 img: "assets/img/portfolio/chamfer-distance.png"
 feature-img: "assets/img/portfolio/platonic.png" 
 tags: [Research, CAD, Rhinoceros 3D, Python]
