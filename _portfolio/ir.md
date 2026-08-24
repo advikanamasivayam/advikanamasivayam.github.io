@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Additive Manufacturing Engineering Internship
-order: 1
+order: 2
 img: "assets/img/portfolio/ir.jpg"
 feature-img: "assets/img/portfolio/ir.jpg" 
 tags: [CAD, Creo, Siemens NX, ANSYS]
