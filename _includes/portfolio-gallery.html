@@ -49,7 +49,7 @@
 </style>
 
 <div class="grid">
-  {% assign sorted = site.portfolio | sort: "date" | reverse %}
+  {% assign sorted = site.portfolio | sort: "order" %}
   {% for item in sorted %}
     <div class="grid-item">
       <a href="{{ item.url | relative_url }}">
