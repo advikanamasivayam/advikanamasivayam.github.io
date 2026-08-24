@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MIT 2.007: Design & Manufacturing I
+title: "MIT 2.007: Design & Manufacturing I"
 order: 3
 img: "assets/img/portfolio/dm.png"
 feature-img: "assets/img/portfolio/dm.png" 
