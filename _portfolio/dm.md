@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Design and manufacturing
-order: 11
+order: 3
 img: "assets/img/portfolio/dm.png"
 feature-img: "assets/img/portfolio/dm.png" 
 tags: [CAD, Creo, Siemens NX, ANSYS]
