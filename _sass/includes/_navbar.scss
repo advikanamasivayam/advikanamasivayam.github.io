@@ -29,6 +29,10 @@
     }
   }
 
+ .site-header .site-title {
+  display: none;
+}
+
   a {
     color: var(--header-link);
   }
