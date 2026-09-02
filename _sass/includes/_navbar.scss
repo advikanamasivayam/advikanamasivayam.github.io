@@ -29,10 +29,6 @@
     }
   }
 
- .site-header .site-title {
-  display: none;
-}
-
   a {
     color: var(--header-link);
   }
@@ -45,7 +41,6 @@
     border-radius: 0.2em;
     margin-right: 0.5em;
     padding: 10px 10px;
-
   }
 
   .site-title {
@@ -154,7 +149,11 @@ nav {
         width: 100%;
         display: block;
       }
-
     }
   }
+}
+
+/* Hide site title from navbar */
+.site-header .site-title {
+  display: none;
 }
