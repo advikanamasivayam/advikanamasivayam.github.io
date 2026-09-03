@@ -30,7 +30,7 @@ The results were used to identify printing parameters that improved dimensional 
 ## Rotary Design
 I supported **EOS metal additive manufacturing workflows** from design for additive manufacturing (DfAM) through build preparation and dimensional validation for rotary compressor applications.
 
-Using **Creo**, I redesigned components to meet dimensional and tolerance requirements while adapting conventional geometries for metal additive manufacturing. One application involved designing an adapter for a 20,000 RPM, 12:1 gearing motor, requiring consideration of manufacturing constraints and dimensional requirements.
+I redesigned components to meet dimensional and tolerance requirements while adapting conventional geometries for metal additive manufacturing. One application involved designing an adapter for a 20,000 RPM, 12:1 gearing motor, requiring consideration of manufacturing constraints and dimensional requirements.
 
 ## Seal Calculator Tool
 I developed a seal calculator tool to support O-ring selection within Ingersoll Rand's engineering design workflow. The tool supports both standard AS568 and custom O-ring sizing and includes:
