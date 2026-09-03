@@ -13,9 +13,9 @@ I also collaborated with the software team to integrate our mechanical systems w
 
 <div class="iframe-full">
   <iframe src="https://maslab.mit.edu/2025/wiki/team15"
-          width="1600" height="700"
-          style="border:none;"></iframe>
+          style="width: 100%; height: 700px; border: none;"></iframe>
 </div>
+
 <img src="{{ "/assets/img/portfolio/maslab-comp.jpg" | relative_url }}" alt="Competition Field" width="50%">
 **Intake System**
 <iframe width="1120" height="630"
