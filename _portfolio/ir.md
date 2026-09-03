@@ -10,7 +10,7 @@ display-date: "May 2026 – August 2026"
 Over the summer, I worked at Ingersoll Rand as a Mechanical Engineering Intern on the Additive Manufacturing team, where I worked across CFD analysis, polymer and metal additive manufacturing, design optimization, and engineering tool development.
 
 ## Plated Heat Exchanger Analysis
-I used **Ansys Discovery** to run CFD simulations analyzing the thermal and fluid performance of additively manufactured oil-air heat exchangers. I evaluated different **gyroid geometries** and compared their effects on:
+I used Ansys Discovery to run CFD simulations analyzing the thermal and fluid performance of additively manufactured oil-air heat exchangers. I evaluated different gyroid geometries and compared their effects on:
 - Pressure drop
 - Temperature drop
 I also considered manufacturing and simulation constraints when developing the geometries, including:
@@ -20,7 +20,7 @@ I also considered manufacturing and simulation constraints when developing the g
 - Adding fluid stabilization regions at the inlet and outlet to improve simulation accuracy
 
 ## SLA Printing DOE
-I conducted a **design of experiments (DOE)** using an ELEGOO Jupiter 2 SLA printer to determine how print parameters affected dimensional accuracy and print quality. I systematically varied parameters including:
+I conducted a design of experiments (DOE) using an ELEGOO Jupiter 2 SLA printer to determine how print parameters affected dimensional accuracy and print quality. I systematically varied parameters including:
 - Support structure 
 - Exposure settings  
 - Cure time
@@ -28,7 +28,7 @@ I conducted a **design of experiments (DOE)** using an ELEGOO Jupiter 2 SLA prin
 The results were used to identify printing parameters that improved dimensional accuracy for future prototypes and applications.
 
 ## Rotary Design
-I supported **EOS metal additive manufacturing workflows** from design for additive manufacturing (DfAM) through build preparation and dimensional validation for rotary compressor applications.
+I supported EOS metal additive manufacturing workflows from design for additive manufacturing (DfAM) through build preparation and dimensional validation for rotary compressor applications.
 
 I redesigned components to meet dimensional and tolerance requirements while adapting conventional geometries for metal additive manufacturing. One application involved designing an adapter for a 20,000 RPM, 12:1 gearing motor, requiring consideration of manufacturing constraints and dimensional requirements.
 
