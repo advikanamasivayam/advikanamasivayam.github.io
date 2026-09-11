@@ -29,7 +29,7 @@ I conducted a design of experiments (DOE) using an ELEGOO Jupiter 2 SLA printer 
 - Part positioning
 The results were used to identify printing parameters that improved dimensional accuracy for future prototypes and applications.
 
-<img src="{{ "/assets/img/portfolio/doe.jpg" | relative_url }}" alt="DOE" width="50%">
+<img src="{{ "/assets/img/portfolio/doe.png" | relative_url }}" alt="DOE" width="50%"><img src="{{ "/assets/img/portfolio/sla.jpg" | relative_url }}" alt="DOE" width="50%">
 
 ## Rotary Design
 I supported EOS metal additive manufacturing workflows from design for additive manufacturing (DfAM) through build preparation and dimensional validation for rotary compressor applications.
@@ -51,4 +51,4 @@ I developed a seal calculator tool to support O-ring selection within Ingersoll 
 
 The tool was designed to improve the speed, usability, and accuracy of seal selection across different engineering applications.
 
-<img src="{{ "/assets/img/portfolio/O-ring.png" | relative_url }}" alt="DOE" width="95%">
+<img src="{{ "/assets/img/portfolio/O-ring.png" | relative_url }}" alt="O-ring calculator" width="95%">
