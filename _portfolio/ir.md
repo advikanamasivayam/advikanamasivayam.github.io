@@ -18,6 +18,7 @@ I also considered manufacturing and simulation constraints when developing the g
 - Incorporating a through-hole for the copper anode used during the plating process
 - Evaluating geometries for both FDM and SLA manufacturing
 - Adding fluid stabilization regions at the inlet and outlet to improve simulation accuracy
+- 
 <img src="{{ "/assets/img/portfolio/cfd.png" | relative_url }}" alt="DOE" width="50%">
 
 ## SLA Printing DOE
@@ -27,12 +28,14 @@ I conducted a design of experiments (DOE) using an ELEGOO Jupiter 2 SLA printer 
 - Cure time
 - Part positioning
 The results were used to identify printing parameters that improved dimensional accuracy for future prototypes and applications.
+
 <img src="{{ "/assets/img/portfolio/doe.jpg" | relative_url }}" alt="DOE" width="50%">
 
 ## Rotary Design
 I supported EOS metal additive manufacturing workflows from design for additive manufacturing (DfAM) through build preparation and dimensional validation for rotary compressor applications.
 
 I redesigned components to meet dimensional and tolerance requirements while adapting conventional geometries for metal additive manufacturing. One application involved designing an adapter for a 20,000 RPM, 12:1 gearing motor, requiring consideration of manufacturing constraints and dimensional requirements.
+
 <iframe width="1120" height="630"
         src="https://www.youtube.com/embed/z_BfWrjCs4E?mute=1"
         title="YouTube video player"
@@ -47,4 +50,5 @@ I developed a seal calculator tool to support O-ring selection within Ingersoll 
 - Support for multiple sizing configurations
 
 The tool was designed to improve the speed, usability, and accuracy of seal selection across different engineering applications.
+
 <img src="{{ "/assets/img/portfolio/O-ring.png" | relative_url }}" alt="DOE" width="95%">
