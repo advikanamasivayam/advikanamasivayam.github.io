@@ -29,6 +29,7 @@ I also worked on ensuring optimal placement of hardpoints on the mounts that con
 I ran simulations for stress analysis using Ansys FEA to test various load cases specified by the competition guidelines. The load cases were to pass when applied on both the front corners and back corners of the roll cage. There were two sideways angled loading cases, one sideways horizontal loading case, one rearward horizontal loading case, and one combined loading case to be applied on a loading patch less than 150mm in diameter. The FEA is required to use 3D elements at the joints. 
 
 <img src="{{ "/assets/img/portfolio/rc-fea.png" | relative_url }}" alt="Roll Cage FEA" width="100%">
+
 <div style="display: flex;">
     <img src="{{ "/assets/img/portfolio/sizing.png" | relative_url }}" alt="Roll Cage" style="width: 49%;">
     <img src="{{ "/assets/img/portfolio/mesh.png" | relative_url }}" alt="Roll Cage" style="width: 49%;">
@@ -47,10 +48,7 @@ After completing the design and manufacturing plan, I worked through the fabrica
 </div>
 
 We also performed an Instron test of representative welds to verify weld strength and provide data for our analysis of the loading cases.
-<img src="{{ "/assets/img/portfolio/testpiece.JPEG" | relative_url }}"
-     alt="test"
-     width="40%"
-     style="display:block; margin-left:auto; margin-right:auto;">
+<img src="{{ "/assets/img/portfolio/testpiece.JPEG" | relative_url }}" alt="test" width="40%">
 
 Beyond the roll cage, I contributed to manufacturing other vehicle systems, including the rear suspension, battery mounting, and steering systems.
 <div style="display: flex;">
