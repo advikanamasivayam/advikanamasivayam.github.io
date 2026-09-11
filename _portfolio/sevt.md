@@ -3,11 +3,11 @@ layout: post
 title: MIT Solar Electric Vehicle Team Roll Cage
 order: 1
 img: "assets/img/portfolio/solstice-inside.png"
-feature-img: "assets/img/portfolio/rc-fea.png"
-tags: [CAD, SolidWorks, FEA, Ansys]
-display-date: "September 2024 – Present"
+feature-img: "assets/img/portfolio/background.jpg"
+tags: [CAD, SolidWorks, FEA, Ansys, Manufacturing]
+display-date: "September 2024 – May 2026"
 ---
-I led our team in the design and fabrication of the roll cage for the MIT Solar Electric Vehicle Team's new car, _Solstice_, to compete at the 2026 Formula Sun Grand Prix in Brainerd, MN. The roll cage is a TIG-welded steel frame ensuring occupant safety.  
+I led our team in the design and fabrication of the roll cage for the MIT Solar Electric Vehicle Team's new car, _Solstice_, to compete at the _2026 Formula Sun Grand Prix_ in Brainerd, MN. The roll cage is a TIG-welded steel frame ensuring occupant safety.  
 
 **Roll Cage Design:**  
 <div style="display: flex;">
@@ -35,11 +35,27 @@ I ran simulations for stress analysis using Ansys FEA to test various load cases
 </div>
 
 ## Manufacturing 
-We are beginning the manufacturing process of the car and will be TIG-welding the roll cage starting in the winter. We performed an Instron test to verify the strength of our welds for analysis as well. 
+We then began the manufacturing process of the car and will be TIG-welding the roll cage starting in the winter. We performed an Instron test to verify the strength of our welds for analysis of the loading cases.
 
 Weld Test Piece
 <img src="{{ "/assets/img/portfolio/testpiece.JPEG" | relative_url }}"
      alt="Solstice"
      width="50%"
      style="display:block; margin-left:auto; margin-right:auto;">
+
+After creating the manufacturing plan, we went into welding the tubes, taking into consideration warping and other similar constraints.
+<div style="display: flex;">
+    <img src="{{ "/assets/img/portfolio/welding.jpg" | relative_url }}" alt="Welding" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/rc_car.jpg" | relative_url }}" alt="Roll Cage" style="width: 49%;">
+</div>
+
+I helped other projects in manufacturing as well, such as the back suspension, battery mounting, and steering systems.
+<div style="display: flex;">
+    <img src="{{ "/assets/img/portfolio/backsus.jpeg" | relative_url }}" alt="Back Sus" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/mounts.jpeg" | relative_url }}" alt="Mounts" style="width: 49%;">
+</div>
+
+We brought Solstice to the _Formula Sun Grand Prix_ in July, where it placed 5th overall in the MOV Class.
+<img src="{{ "/assets/img/portfolio/car.jpg" | relative_url }}" alt="Solstice" width="100%">
+
 
