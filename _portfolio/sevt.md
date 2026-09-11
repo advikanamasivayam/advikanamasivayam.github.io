@@ -7,7 +7,7 @@ feature-img: "assets/img/portfolio/background.jpg"
 tags: [CAD, SolidWorks, FEA, Ansys, Manufacturing]
 display-date: "September 2024 – May 2026"
 ---
-I led our team in the design and fabrication of the roll cage for the MIT Solar Electric Vehicle Team's new car, _Solstice_, to compete at the _2026 Formula Sun Grand Prix_ in Brainerd, MN. The roll cage is a TIG-welded steel frame ensuring occupant safety.  
+As Roll Cage Lead for the MIT Solar Electric Vehicle Team, I led the design and fabrication of the roll cage for _Solstice_, our multi-occupant solar vehicle competing in the 2026 _Formula Sun Grand Prix_. The roll cage is a TIG-welded steel structure designed to protect the occupants while integrating with the vehicle's carbon-fiber composite chassis and surrounding mechanical systems.
 
 **Roll Cage Design:**  
 <div style="display: flex;">
@@ -34,28 +34,35 @@ I ran simulations for stress analysis using Ansys FEA to test various load cases
     <img src="{{ "/assets/img/portfolio/mesh.png" | relative_url }}" alt="Roll Cage" style="width: 49%;">
 </div>
 
-## Manufacturing 
-We then began the manufacturing process of the car and will be TIG-welding the roll cage. We performed an Instron test to verify the strength of our welds for analysis of the loading cases.
-<img src="{{ "/assets/img/portfolio/testpiece.JPEG" | relative_url }}"
-     alt="Solstice"
-     width="40%"
-     style="display:block; margin-left:auto; margin-right:auto;">
+## Design Iteration
+The roll cage went through multiple iterations as I evaluated both structural performance and integration with the vehicle. Strength requirements drove the addition and placement of gussets, while manufacturing constraints influenced tube geometry, joint design, and weld accessibility.
 
-After creating the manufacturing plan, we went into welding the tubes, taking into consideration warping and other similar constraints.
+The final design also needed to interface with multiple vehicle systems. In addition to the chassis mounting points, I considered hardpoint placement relative to other components.
+
+## Manufacturing 
+After completing the design and manufacturing plan, I worked through the fabrication process with the team. Tube welding required consideration of weld accessibility, fixturing, and distortion, particularly as the structure was assembled.
 <div style="display: flex;">
     <img src="{{ "/assets/img/portfolio/welding.JPG" | relative_url }}" alt="Welding" style="width: 55%;">
     <img src="{{ "/assets/img/portfolio/rc_car.jpg" | relative_url }}" alt="Roll Cage" style="width: 30%;">
 </div>
 
+We also performed an Instron test of representative welds to verify weld strength and provide data for our analysis of the loading cases.
+<img src="{{ "/assets/img/portfolio/testpiece.JPEG" | relative_url }}"
+     alt="test"
+     width="40%"
+     style="display:block; margin-left:auto; margin-right:auto;">
 
-I manufacture other components as well, such as the back suspension, battery mounting, and steering systems.
+Beyond the roll cage, I contributed to manufacturing other vehicle systems, including the rear suspension, battery mounting, and steering systems.
 <div style="display: flex;">
     <img src="{{ "/assets/img/portfolio/backsus.JPEG" | relative_url }}" alt="Back Sus" style="width: 30%;">
     <img src="{{ "/assets/img/portfolio/mounts.png‎‎" | relative_url }}" alt="Mounts" style="width: 55%;">
 </div>
 
+## Results
+_Solstice_ competed in the 2026 _Formula Sun Grand Prix_ in Brainerd, Minnesota, and went on to place 5th overall in the Multi-Occupant Vehicle (MOV) class.
 
-We brought Solstice to the _Formula Sun Grand Prix_ in July, where we placed 5th overall in the MOV Class.
+The completed roll cage reduced mass by 25% compared with the team's previous vehicle while meeting the structural and integration requirements of the new vehicle.
+
 <img src="{{ "/assets/img/portfolio/Car.JPG" | relative_url }}" alt="Solstice" width="50%">
 
 
