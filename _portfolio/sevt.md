@@ -43,7 +43,7 @@ We then began the manufacturing process of the car and will be TIG-welding the r
 
 After creating the manufacturing plan, we went into welding the tubes, taking into consideration warping and other similar constraints.
 <div style="display: flex;">
-    <img src="{{ "/assets/img/portfolio/welding.JPG" | relative_url }}" alt="Welding" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/welding.JPG" | relative_url }}" alt="Welding" style="width: 20%;">
     <img src="{{ "/assets/img/portfolio/rc_car.jpg" | relative_url }}" alt="Roll Cage" style="width: 49%;">
 </div>
 
