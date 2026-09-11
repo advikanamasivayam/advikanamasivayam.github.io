@@ -35,7 +35,7 @@ I ran simulations for stress analysis using Ansys FEA to test various load cases
 </div>
 
 ## Manufacturing 
-We then began the manufacturing process of the car and will be TIG-welding the roll cage starting in the winter. We performed an Instron test to verify the strength of our welds for analysis of the loading cases.
+We then began the manufacturing process of the car and will be TIG-welding the roll cage. We performed an Instron test to verify the strength of our welds for analysis of the loading cases.
 <img src="{{ "/assets/img/portfolio/testpiece.JPEG" | relative_url }}"
      alt="Solstice"
      width="40%"
