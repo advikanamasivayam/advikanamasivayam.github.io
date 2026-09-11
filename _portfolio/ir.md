@@ -46,3 +46,4 @@ I developed a seal calculator tool to support O-ring selection within Ingersoll 
 - Support for multiple sizing configurations
 
 The tool was designed to improve the speed, usability, and accuracy of seal selection across different engineering applications.
+<img src="{{ "/assets/img/portfolio/O-ring.png" | relative_url }}" alt="DOE" width="50%">
