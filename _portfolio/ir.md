@@ -29,9 +29,9 @@ I conducted a design of experiments (DOE) using an ELEGOO Jupiter 2 SLA printer 
 - Part positioning
 The results were used to identify printing parameters that improved dimensional accuracy for future prototypes and applications.
 
-<div style="display: flex; align-items: center; gap: 10;">
+<div style="display: flex; align-items: center; gap: 20;">
   <img src="{{ "/assets/img/portfolio/doe.png" | relative_url }}" 
-       alt="DOE" style="width: 65%; height: auto;">
+       alt="DOE" style="width: 62%; height: auto;">
   <img src="{{ "/assets/img/portfolio/sla.jpg" | relative_url }}" 
        alt="SLA" style="width: 40%; height: auto;">
 </div>
