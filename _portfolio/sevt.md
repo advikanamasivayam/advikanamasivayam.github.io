@@ -38,7 +38,7 @@ I ran simulations for stress analysis using Ansys FEA to test various load cases
 We then began the manufacturing process of the car and will be TIG-welding the roll cage starting in the winter. We performed an Instron test to verify the strength of our welds for analysis of the loading cases.
 <img src="{{ "/assets/img/portfolio/testpiece.JPEG" | relative_url }}"
      alt="Solstice"
-     width="50%"
+     width="40%"
      style="display:block; margin-left:auto; margin-right:auto;">
 
 After creating the manufacturing plan, we went into welding the tubes, taking into consideration warping and other similar constraints.
@@ -49,7 +49,7 @@ After creating the manufacturing plan, we went into welding the tubes, taking in
 
 I helped other projects in manufacturing as well, such as the back suspension, battery mounting, and steering systems.
 <div style="display: flex;">
-    <img src="{{ "/assets/img/portfolio/backsus.JPEG‎" | relative_url }}" alt="Back Sus" style="width: 20%;">
+    <img src="{{ "/assets/img/portfolio/backsus.JPEG" | relative_url }}" alt="Back Sus" style="width: 20%;">
     <img src="{{ "/assets/img/portfolio/mounts.JPEG‎" | relative_url }}" alt="Mounts" style="width: 49%;">
 </div>
 
