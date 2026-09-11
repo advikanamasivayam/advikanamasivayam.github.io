@@ -36,8 +36,6 @@ I ran simulations for stress analysis using Ansys FEA to test various load cases
 
 ## Manufacturing 
 We then began the manufacturing process of the car and will be TIG-welding the roll cage starting in the winter. We performed an Instron test to verify the strength of our welds for analysis of the loading cases.
-
-Weld Test Piece
 <img src="{{ "/assets/img/portfolio/testpiece.JPEG" | relative_url }}"
      alt="Solstice"
      width="50%"
@@ -45,17 +43,17 @@ Weld Test Piece
 
 After creating the manufacturing plan, we went into welding the tubes, taking into consideration warping and other similar constraints.
 <div style="display: flex;">
-    <img src="{{ "/assets/img/portfolio/welding.jpg" | relative_url }}" alt="Welding" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/welding.JPG" | relative_url }}" alt="Welding" style="width: 49%;">
     <img src="{{ "/assets/img/portfolio/rc_car.jpg" | relative_url }}" alt="Roll Cage" style="width: 49%;">
 </div>
 
 I helped other projects in manufacturing as well, such as the back suspension, battery mounting, and steering systems.
 <div style="display: flex;">
-    <img src="{{ "/assets/img/portfolio/backsus.jpeg" | relative_url }}" alt="Back Sus" style="width: 49%;">
-    <img src="{{ "/assets/img/portfolio/mounts.jpeg" | relative_url }}" alt="Mounts" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/backsus.JPEG‎" | relative_url }}" alt="Back Sus" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/mounts.JPEG‎" | relative_url }}" alt="Mounts" style="width: 49%;">
 </div>
 
 We brought Solstice to the _Formula Sun Grand Prix_ in July, where it placed 5th overall in the MOV Class.
-<img src="{{ "/assets/img/portfolio/car.jpg" | relative_url }}" alt="Solstice" width="100%">
+<img src="{{ "/assets/img/portfolio/Car.JPG" | relative_url }}" alt="Solstice" width="100%">
 
 
