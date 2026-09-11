@@ -31,7 +31,7 @@ The results were used to identify printing parameters that improved dimensional 
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="{{ "/assets/img/portfolio/doe.png" | relative_url }}" 
-       alt="DOE" style="width: 60%; height: auto;">
+       alt="DOE" style="width: 65%; height: auto;">
   <img src="{{ "/assets/img/portfolio/sla.jpg" | relative_url }}" 
        alt="SLA" style="width: 40%; height: auto;">
 </div>
