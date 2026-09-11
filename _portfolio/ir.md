@@ -3,7 +3,7 @@ layout: post
 title: "Additive Manufacturing Engineering Internship"
 order: 2
 img: "assets/img/portfolio/ir.jpg"
-feature-img: "assets/img/portfolio/ir.jpg" 
+feature-img: "assets/img/portfolio/background.jpg" 
 tags: [CAD, Creo, Siemens NX, ANSYS Discovery, SLA, DOE, CFD]
 display-date: "May 2026 – August 2026"
 ---
@@ -19,7 +19,7 @@ I also considered manufacturing and simulation constraints when developing the g
 - Evaluating geometries for both FDM and SLA manufacturing
 - Adding fluid stabilization regions at the inlet and outlet to improve simulation accuracy
 
-<img src="{{ "/assets/img/portfolio/cfd.png" | relative_url }}" alt="DOE" width="50%">
+<img src="{{ "/assets/img/portfolio/cfd.png" | relative_url }}" alt="CFD" width="50%">
 
 ## SLA Printing DOE
 I conducted a design of experiments (DOE) using an ELEGOO Jupiter 2 SLA printer to determine how print parameters affected dimensional accuracy and print quality. I systematically varied parameters including:
