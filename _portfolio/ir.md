@@ -18,6 +18,7 @@ I also considered manufacturing and simulation constraints when developing the g
 - Incorporating a through-hole for the copper anode used during the plating process
 - Evaluating geometries for both FDM and SLA manufacturing
 - Adding fluid stabilization regions at the inlet and outlet to improve simulation accuracy
+<img src="{{ "/assets/img/portfolio/cfd.png" | relative_url }}" alt="DOE" width="50%">
 
 ## SLA Printing DOE
 I conducted a design of experiments (DOE) using an ELEGOO Jupiter 2 SLA printer to determine how print parameters affected dimensional accuracy and print quality. I systematically varied parameters including:
