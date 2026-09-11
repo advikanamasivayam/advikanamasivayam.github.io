@@ -47,11 +47,13 @@ After creating the manufacturing plan, we went into welding the tubes, taking in
     <img src="{{ "/assets/img/portfolio/rc_car.jpg" | relative_url }}" alt="Roll Cage" style="width: 30%;">
 </div>
 
+
 I helped other projects in manufacturing as well, such as the back suspension, battery mounting, and steering systems.
 <div style="display: flex;">
     <img src="{{ "/assets/img/portfolio/backsus.JPEG" | relative_url }}" alt="Back Sus" style="width: 30%;">
     <img src="{{ "/assets/img/portfolio/mounts.JPEG‎‎" | relative_url }}" alt="Mounts" style="width: 55%;">
 </div>
+
 
 We brought Solstice to the _Formula Sun Grand Prix_ in July, where we placed 5th overall in the MOV Class.
 <img src="{{ "/assets/img/portfolio/Car.JPG" | relative_url }}" alt="Solstice" width="50%">
