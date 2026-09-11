@@ -33,7 +33,7 @@ I supported EOS metal additive manufacturing workflows from design for additive 
 
 I redesigned components to meet dimensional and tolerance requirements while adapting conventional geometries for metal additive manufacturing. One application involved designing an adapter for a 20,000 RPM, 12:1 gearing motor, requiring consideration of manufacturing constraints and dimensional requirements.
 <iframe width="1120" height="630"
-        src="https://youtube.com/shorts/z_BfWrjCs4E?mute=1"
+        src="https://www.youtube.com/embed/z_BfWrjCs4E?mute=1"
         title="YouTube video player"
         frameborder="0"
         allowfullscreen></iframe>
