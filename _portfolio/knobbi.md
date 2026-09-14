@@ -7,9 +7,9 @@ feature-img: "assets/img/portfolio/background.jpg"
 tags: [CAD, Onshape]
 display-date: "February 2026"
 ---
-I participated in MakeMIT, a 24-hour hardware hackathon at MIT. Our team won 1st place Home Security Track sponsored by Sauron. 
+I participated in **MakeMIT**, a 24-hour hardware hackathon at MIT. Our team won **1st place Home Security Track** sponsored by Sauron. 
 
-Our team designed and fabricated “knobbi,” a retractable doorknob with a custom tri-bar linkage and autolock features. We integrated mechanical hardware with software for user authentication via camera-based facial recognition.
+Our team designed and fabricated **_knobbi_**, a retractable doorknob with a custom tri-bar linkage and autolock features. We integrated mechanical hardware with software for user authentication via camera-based facial recognition.
 
 I worked on engineering the housing to eliminate external leverage points and improve forced-entry resistance, as well as the linkage mechanism required for the doorknob to smoothly retract, flush to the housing.
 
@@ -41,7 +41,7 @@ Facial recognition proved to be a challenge as we tested in various brightness a
 
 ## Hackathon Submission Video
 <iframe width="1120" height="630"
-        src="https://www.youtube.com/embed/ShXgaXISwFOmxnUJ?mute=1"
+        src="https://www.youtube.com/embed/k5NtzphyoIU?mute=1"
         title="YouTube video player"
         frameborder="0"
         allowfullscreen></iframe>
