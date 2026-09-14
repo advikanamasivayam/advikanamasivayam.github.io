@@ -3,7 +3,7 @@ layout: post
 title: Mobile Autonomous Systems Laboratory
 order: 6
 img: "assets/img/portfolio/robot.png"
-feature-img: "assets/img/portfolio/robot.png"
+feature-img: "assets/img/portfolio/background.jpg"
 tags: [CAD, Onshape]
 display-date: "January 2025"
 ---
