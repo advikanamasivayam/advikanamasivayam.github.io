@@ -3,48 +3,55 @@ layout: post
 title: CAD Design
 order: 8
 img: "assets/img/portfolio/glasses.png"
-feature-img: "assets/img/portfolio/glasses.png" 
+feature-img: "assets/img/portfolio/background.png" 
 tags: [CAD]
 display-date: "Ongoing"
 ---
 ### Engineers Without Borders Dispensary - December 2024 
 
 <img src="{{ "/assets/img/portfolio/dispensary.png" | relative_url }}" alt="EWB Dispensary" style="width: 60%;">
-As a part of the MIT Engineers Without Borders Health & Sanitation Team, I worked on the CAD model of the healthcare dispensary that we implemented in Mkutani, Tanzania, using Fusion 360. This project aimed to improve maternal care and overall patient care for the 4,800 people the Mkutani dispensary serves, by renovating the roof and adding in a new maternity ward.
+
+As a part of the _MIT Engineers Without Borders_ Health & Sanitation Team, I worked on the CAD model of the healthcare dispensary that we implemented in Mkutani, Tanzania, using Fusion 360. This project aimed to improve maternal care and overall patient care for the 4,800 people the Mkutani dispensary serves, by renovating the roof and adding in a new maternity ward.
 
 ### Glasses Case 
 <div style="display: flex;">
-    <img src="{{ "/assets/img/portfolio/glasses.png" | relative_url }}" alt="Glasses Case" style="width: 49%;">
-    <img src="{{ "/assets/img/portfolio/glasses-closed.png" | relative_url }}" alt="Glasses Case" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/glasses.png" | relative_url }}" alt="Glasses Case" style="width: 30%;">
+    <img src="{{ "/assets/img/portfolio/glasses-closed.png" | relative_url }}" alt="Glasses Case" style="width: 30%;">
 </div>
 
+
 <div style="display: flex;">
-    <img src="{{ "/assets/img/portfolio/glasses-print-open.jpg" | relative_url }}" alt="Glasses Case" style="width: 49%;">
-    <img src="{{ "/assets/img/portfolio/glasses-print-closed.jpg" | relative_url }}" alt="Glasses Case" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/glasses-print-open.jpg" | relative_url }}" alt="Glasses Case" style="width: 30%;">
+    <img src="{{ "/assets/img/portfolio/glasses-print-closed.jpg" | relative_url }}" alt="Glasses Case" style="width: 30%;">
+</div>
+
+### Decorative Sticker Holder
+<div style="display: flex;">
+    <img src="{{ "/assets/img/portfolio/holder_assembled.png" | relative_url }}" alt="Sun holder assembled" style="width: 30%;">
+    <img src="{{ "/assets/img/portfolio/holder_stored.png" | relative_url }}" alt="Sun holder stored" style="width: 30%;">
 </div>
 
 ### Watch Holder 
-(2 halves snap together for cleaner and faster print)  
-<img src="{{ "/assets/img/portfolio/watch-holder.png" | relative_url }}" alt="Watch Holder" width="50%">
+<img src="{{ "/assets/img/portfolio/watch-holder.png" | relative_url }}" alt="Watch Holder" width="30%">
 
 ### Badminton Racket Handle  
 <img src="{{ "/assets/img/portfolio/handle.png" | relative_url }}" alt="Badminton Racket Handle" width="10%">
 
 ### Snap-fit Box  
-<img src="{{ "/assets/img/portfolio/snap-box.png" | relative_url }}" alt="Snap-fit Box" width="50%">
+<img src="{{ "/assets/img/portfolio/snap-box.png" | relative_url }}" alt="Snap-fit Box" width="30%">
 
 ### Clothes Hanger  
-<img src="{{ "/assets/img/portfolio/hanger.png" | relative_url }}" alt="Clothes Hanger" width="50%">
+<img src="{{ "/assets/img/portfolio/hanger.png" | relative_url }}" alt="Clothes Hanger" width="30%">
 
 ### Stationery Holder  
-<img src="{{ "/assets/img/portfolio/penholder.png" | relative_url }}" alt="Stationery Holder" width="50%">
+<img src="{{ "/assets/img/portfolio/penholder.png" | relative_url }}" alt="Stationery Holder" width="30%">
 
 ### Pi Day Decorations
-<img src="{{ "/assets/img/portfolio/pi.png" | relative_url }}" alt="Pi Day Decorations" width="50%">  
+<img src="{{ "/assets/img/portfolio/pi.png" | relative_url }}" alt="Pi Day Decorations" width="30%">  
 <div style="display: flex; margin-bottom: 10px;">
-    <img src="{{ "/assets/img/portfolio/tin.JPG" | relative_url }}" alt="Pi Day Decorations" style="width: 49%;">
-    <img src="{{ "/assets/img/portfolio/lid.JPG" | relative_url }}" alt="Pi Day Decorations" style="width: 49%;">
+    <img src="{{ "/assets/img/portfolio/tin.JPG" | relative_url }}" alt="Pi Day Decorations" style="width: 30%;">
+    <img src="{{ "/assets/img/portfolio/lid.JPG" | relative_url }}" alt="Pi Day Decorations" style="width: 30%;">
 </div>
 
 ### SD Card Holder  
-<img src="{{ "/assets/img/portfolio/sd.png" | relative_url }}" alt="SD Card Holder" width="50%">
+<img src="{{ "/assets/img/portfolio/sd.png" | relative_url }}" alt="SD Card Holder" width="30%">
