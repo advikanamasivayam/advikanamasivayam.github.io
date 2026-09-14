@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "MIT 2.007: Design & Manufacturing I"
