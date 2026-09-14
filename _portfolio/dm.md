@@ -10,10 +10,16 @@ display-date: "February 2026 – May 2026"
 
 <div class="intro-row">
   <div class="intro-text">
-    Throughout the semester, I designed and manufactured a robot that was able to spin a 1 kg nut and remove and move a tire on the year's gameboard.
+    <p>
+Throughout the semester, I designed and manufactured a robot for MIT 2.007: Design & Manufacturing I. The robot was designed to spin a 400 g nut, remove a 16 lb tire, and transport it across the course's gameboard. The project involved mechanical design, CAD, fabrication, and iterative testing to develop a robot capable of completing these tasks.
+    </p>
   </div>
+
   <div class="intro-image">
-    <img src="{{ "/assets/img/portfolio/2.007_comp.JPEG" | relative_url }}" alt="Robot competition" width="100%">
+    <img
+      src="{{ "/assets/img/portfolio/2.007_comp.JPEG" | relative_url }}"
+      alt="Robot competing in the MIT 2.007 competition"
+    >
   </div>
 </div>
 
