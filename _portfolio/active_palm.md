@@ -3,7 +3,7 @@ layout: post
 title: MIT d'Arbeloff Lab Vine Robot Research
 order: 5
 img: "assets/img/portfolio/rig.jpg"
-feature-img: "assets/img/portfolio/rig-cad.png" 
+feature-img: "assets/img/portfolio/background.png" 
 tags: [Research, CAD, SolidWorks, Arduino]
 display-date: "June 2025 – Present"
 ---
