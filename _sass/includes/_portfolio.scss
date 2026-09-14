@@ -56,18 +56,18 @@
 .intro-row {
   display: flex;
   flex-direction: row;
-  align-items: center;
+  align-items: flex-start;
   gap: 30px;
   margin-bottom: 30px;
 }
 
 .intro-text {
-  flex: 1 1 75%;
+  flex: 1 1 70%;
   min-width: 0;
 }
 
 .intro-image {
-  flex: 0 0 25%;
+  flex: 0 0 30%;
   min-width: 0;
 }
 
