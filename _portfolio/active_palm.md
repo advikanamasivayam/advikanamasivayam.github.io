@@ -5,7 +5,7 @@ order: 5
 img: "assets/img/portfolio/rig.jpg"
 feature-img: "assets/img/portfolio/background.jpg"
 tags: [Research, CAD, SolidWorks, Arduino]
-display-date: "June 2025 – Present"
+display-date: "June 2025 – February 2026"
 ---
 Over the summer, I worked on soft vine robot actuation research project in the d'Arbeloff Lab of Professor Harry Asada. I implemented a closed-loop control system for a soft vine robot for heavy industry applications. This enhanced actuation precision as I integrated PID controllers and encoders for feedback, which hadn't yet been done in this application. 
 
