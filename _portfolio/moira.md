@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MOdular Integration Robotics Architecture 
+title: Modular Integration Robotics Architecture 
 order: 10
 img: "assets/img/portfolio/moira.png"
 feature-img: "assets/img/portfolio/background.jpg"
