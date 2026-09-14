@@ -5,7 +5,7 @@ title: "MIT 2.007: Design & Manufacturing I"
 order: 3
 img: "assets/img/portfolio/dm.png"
 feature-img: "assets/img/portfolio/background.jpg"
-tags: [CAD, SolidWorks, Manufacturing]
+tags: [CAD, SolidWorks, Manufacturing, Arduino]
 display-date: "February 2026 – May 2026"
 ---
 
