@@ -23,7 +23,7 @@ I worked on engineering the housing to eliminate external leverage points and im
         <img src="{{ "/assets/img/portfolio/knobbi/knobbi1.JPEG" | relative_url }}" alt="knobbi image" style="width: 40%;">
 <img src="{{ "/assets/img/portfolio/knobbi/knobbi2.JPEG" | relative_url }}" alt="knobbi image" style="width: 49%;">
 </div>
-<p align="center"><i>Prototype for judging</i></p>
+<p align="center"><i>Final Prorotype</i></p>
 
 ## Inspiration
 As our team was brainstorming ideas, one of the problems we echoed was pets and kids opening doors as a safety hazard. It is challenging to babyproof or pet-proof doors without making it a hassle for the adults themselves. We realized that this concept also applies to home security with facial recognition, but this is something that already exists--what makes this different? As we were discussing deterring tactics, we mentioned how Tesla car door retraction makes it less attractive for robberies. We sought to incorporate this into our design, knobbi.
