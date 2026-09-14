@@ -15,43 +15,42 @@ As a part of the _MIT Engineers Without Borders_ Health & Sanitation Team, I wor
 
 ### Glasses Case 
 <div style="display: flex;">
-    <img src="{{ "/assets/img/portfolio/glasses.png" | relative_url }}" alt="Glasses Case" style="width: 30%;">
-    <img src="{{ "/assets/img/portfolio/glasses-closed.png" | relative_url }}" alt="Glasses Case" style="width: 30%;">
+    <img src="{{ "/assets/img/portfolio/glasses.png" | relative_url }}" alt="Glasses Case" style="width: 40%;">
+    <img src="{{ "/assets/img/portfolio/glasses-closed.png" | relative_url }}" alt="Glasses Case" style="width: 40%;">
 </div>
-
-
+<br>
 <div style="display: flex;">
-    <img src="{{ "/assets/img/portfolio/glasses-print-open.jpg" | relative_url }}" alt="Glasses Case" style="width: 30%;">
-    <img src="{{ "/assets/img/portfolio/glasses-print-closed.jpg" | relative_url }}" alt="Glasses Case" style="width: 30%;">
+    <img src="{{ "/assets/img/portfolio/glasses-print-open.jpg" | relative_url }}" alt="Glasses Case" style="width: 40%;">
+    <img src="{{ "/assets/img/portfolio/glasses-print-closed.jpg" | relative_url }}" alt="Glasses Case" style="width: 40%;">
 </div>
 
 ### Decorative Sticker Holder
 <div style="display: flex;">
-    <img src="{{ "/assets/img/portfolio/holder_assembled.png" | relative_url }}" alt="Sun holder assembled" style="width: 30%;">
-    <img src="{{ "/assets/img/portfolio/holder_stored.png" | relative_url }}" alt="Sun holder stored" style="width: 30%;">
+    <img src="{{ "/assets/img/portfolio/holder_assembled.png" | relative_url }}" alt="Sun holder assembled" style="width: 40%;">
+    <img src="{{ "/assets/img/portfolio/holder_stored.png" | relative_url }}" alt="Sun holder stored" style="width: 40%;">
 </div>
 
 ### Watch Holder 
-<img src="{{ "/assets/img/portfolio/watch-holder.png" | relative_url }}" alt="Watch Holder" width="30%">
+<img src="{{ "/assets/img/portfolio/watch-holder.png" | relative_url }}" alt="Watch Holder" width="40%">
 
 ### Badminton Racket Handle  
 <img src="{{ "/assets/img/portfolio/handle.png" | relative_url }}" alt="Badminton Racket Handle" width="10%">
 
 ### Snap-fit Box  
-<img src="{{ "/assets/img/portfolio/snap-box.png" | relative_url }}" alt="Snap-fit Box" width="30%">
+<img src="{{ "/assets/img/portfolio/snap-box.png" | relative_url }}" alt="Snap-fit Box" width="40%">
 
 ### Clothes Hanger  
-<img src="{{ "/assets/img/portfolio/hanger.png" | relative_url }}" alt="Clothes Hanger" width="30%">
+<img src="{{ "/assets/img/portfolio/hanger.png" | relative_url }}" alt="Clothes Hanger" width="40%">
 
 ### Stationery Holder  
-<img src="{{ "/assets/img/portfolio/penholder.png" | relative_url }}" alt="Stationery Holder" width="30%">
+<img src="{{ "/assets/img/portfolio/penholder.png" | relative_url }}" alt="Stationery Holder" width="40%">
 
 ### Pi Day Decorations
-<img src="{{ "/assets/img/portfolio/pi.png" | relative_url }}" alt="Pi Day Decorations" width="30%">  
+<img src="{{ "/assets/img/portfolio/pi.png" | relative_url }}" alt="Pi Day Decorations" width="40%">  
 <div style="display: flex; margin-bottom: 10px;">
-    <img src="{{ "/assets/img/portfolio/tin.JPG" | relative_url }}" alt="Pi Day Decorations" style="width: 30%;">
-    <img src="{{ "/assets/img/portfolio/lid.JPG" | relative_url }}" alt="Pi Day Decorations" style="width: 30%;">
+    <img src="{{ "/assets/img/portfolio/tin.JPG" | relative_url }}" alt="Pi Day Decorations" style="width: 40%;">
+    <img src="{{ "/assets/img/portfolio/lid.JPG" | relative_url }}" alt="Pi Day Decorations" style="width: 40%;">
 </div>
 
 ### SD Card Holder  
-<img src="{{ "/assets/img/portfolio/sd.png" | relative_url }}" alt="SD Card Holder" width="30%">
+<img src="{{ "/assets/img/portfolio/sd.png" | relative_url }}" alt="SD Card Holder" width="40%">
