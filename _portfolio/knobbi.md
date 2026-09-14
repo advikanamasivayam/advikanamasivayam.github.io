@@ -1,6 +1,6 @@
 ---
 layout: post
-title: knobbi
+title: Knobbi
 order: 4
 img: "assets/img/portfolio/knobbi.JPEG"
 feature-img: "assets/img/portfolio/background.jpg" 
