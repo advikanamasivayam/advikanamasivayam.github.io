@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Elevator Model
-img: "assets/img/portfolio/elevator.jpg"
+img: "assets/img/portfolio/elevator_cropped.jpg"
 order: 11
 feature-img: "assets/img/portfolio/background.png" 
 tags: [CAD, VEXcode]
