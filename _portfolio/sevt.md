@@ -2,7 +2,7 @@
 layout: post
 title: MIT Solar Electric Vehicle Team Roll Cage
 order: 1
-img: "assets/img/portfolio/solstice-inside.png"
+img: "assets/img/portfolio/inside.png"
 feature-img: "assets/img/portfolio/background.jpg"
 tags: [CAD, SolidWorks, FEA, Ansys, Manufacturing]
 display-date: "September 2024 – May 2026"
