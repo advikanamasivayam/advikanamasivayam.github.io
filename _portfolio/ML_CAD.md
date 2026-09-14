@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MIT DeCoDE Lab ML for CAD Research
+title: MIT DeCoDE Lab - Machine Learning for CAD
 order: 9
 img: "assets/img/portfolio/chamfer-distance.png"
 feature-img: "assets/img/portfolio/background.jpg"
