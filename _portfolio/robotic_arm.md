@@ -3,7 +3,7 @@ layout: post
 title: Robotic Arm Control System
 order: 7
 img: "assets/img/portfolio/robotic_arm.png"
-feature-img: "assets/img/portfolio/background.png"
+feature-img: "assets/img/portfolio/background.jpg"
 tags: [Research, LabVIEW, CAD, Onshape]
 display-date: "January - May 2025"
 ---
