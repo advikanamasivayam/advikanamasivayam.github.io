@@ -53,7 +53,7 @@ We also performed an Instron test of representative welds to verify weld strengt
 Beyond the roll cage, I contributed to manufacturing other vehicle systems, including the rear suspension, battery mounting, and steering systems.
 <div style="display: flex;">
     <img src="{{ "/assets/img/portfolio/backsus.JPEG" | relative_url }}" alt="Back Sus" style="width: 30%;">
-    <img src="{{ "/assets/img/portfolio/battery.JPEG‎‎" | relative_url }}" alt="Mounts" style="width: 55%;">
+    <img src="{{ "/assets/img/portfolio/battery.png‎‎" | relative_url }}" alt="Mounts" style="width: 55%;">
 </div>
 
 ## Results
