@@ -17,24 +17,28 @@ I also collaborated with the software team to integrate our mechanical systems w
 </div>
 
 <img src="{{ "/assets/img/portfolio/maslab-comp.jpg" | relative_url }}" alt="Competition Field" width="50%">
+## Demonstration Videos
 **Intake System**
 <iframe width="1120" height="630"
         src="https://www.youtube.com/embed/BMZVafClFlY?mute=1"
         title="YouTube video player"
         frameborder="0"
         allowfullscreen></iframe>
+        
 **Pickup System**
 <iframe width="1120" height="630"
         src="https://www.youtube.com/embed/KR3UmwiHx1I?mute=1"
         title="YouTube video player"
         frameborder="0"
         allowfullscreen></iframe>
+        
 **Dumping Mechanism** 
 <iframe width="1120" height="630"
         src="https://www.youtube.com/embed/p786dLGm0xM?mute=1"
         title="YouTube video player"
         frameborder="0"
         allowfullscreen></iframe>
+        
 **Sorting Prototype** 
 <iframe width="1120" height="630"
         src="https://www.youtube.com/embed/_dEVT_NTStY?mute=1"
