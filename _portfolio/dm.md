@@ -59,11 +59,14 @@ Throughout the semester, I designed and manufactured a robot for MIT 2.007: Desi
 </iframe>
 
 ## Final Presentation
-
-<iframe
-  src="https://docs.google.com/presentation/d/116YZT1SSQZAUuCIbbrRDlPqFbDg0SCEV/edit?usp=embed_googleplus"
-  width="100%"
-  height="600"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
+<div class="presentation-embed">
+  <iframe
+    src="https://docs.google.com/presentation/d/116YZT1SSQZAUuCIbbrRDlPqFbDg0SCEV/embed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    width="100%"
+    height="600"
+    allowfullscreen="true"
+    mozallowfullscreen="true"
+    webkitallowfullscreen="true">
+  </iframe>
+</div>
