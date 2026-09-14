@@ -24,9 +24,8 @@ Throughout the semester, I designed and manufactured a robot for MIT 2.007: Desi
 </div>
 
 ## Design Notebook
-
 <iframe
-  src="https://drive.google.com/file/d/1k9cvN9cmwRfcb8z00lplc_gsU3kviMzw/preview"
+  src="https://drive.google.com/file/d/1CYeg9O1a-wwxWAIipPhnCMFEdHPyYGbj/preview"
   width="100%"
   height="600"
   allow="autoplay">
@@ -35,7 +34,6 @@ Throughout the semester, I designed and manufactured a robot for MIT 2.007: Desi
 ## Final Demonstrations
 
 ### Driving Demo
-
 <iframe
   width="100%"
   height="400"
@@ -47,7 +45,6 @@ Throughout the semester, I designed and manufactured a robot for MIT 2.007: Desi
 </iframe>
 
 ### Robot Demo
-
 <iframe
   width="100%"
   height="400"
