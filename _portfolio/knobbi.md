@@ -14,13 +14,13 @@ Our team designed and fabricated “knobbi,” a retractable doorknob with a cus
 I worked on engineering the housing to eliminate external leverage points and improve forced-entry resistance, as well as the linkage mechanism required for the doorknob to smoothly retract, flush to the housing.
 
 <div style="display: flex;">
-    <img src="{{ "/assets/img/portfolio/knobbi/cad1.png" | relative_url }}" alt="knobbi CAD" style="width: 30%;">
-        <img src="{{ "/assets/img/portfolio/knobbi/cad2.png" | relative_url }}" alt="knobbi CAD" style="width: 30%;">
+    <img src="{{ "/assets/img/portfolio/knobbi/cad1.png" | relative_url }}" alt="knobbi CAD" style="width: 40%;">
+        <img src="{{ "/assets/img/portfolio/knobbi/cad2.png" | relative_url }}" alt="knobbi CAD" style="width: 40%;">
 </div>
 _Initial CAD designs_
 
 <div style="display: flex;">
-        <img src="{{ "/assets/img/portfolio/knobbi/knobbi1.JPEG" | relative_url }}" alt="knobbi image" style="width: 20%;">
+        <img src="{{ "/assets/img/portfolio/knobbi/knobbi1.JPEG" | relative_url }}" alt="knobbi image" style="width: 40%;">
 <img src="{{ "/assets/img/portfolio/knobbi/knobbi2.JPEG" | relative_url }}" alt="knobbi image" style="width: 49%;">
 </div>
 _Prototype for judging_
