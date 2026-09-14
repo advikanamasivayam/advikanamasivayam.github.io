@@ -18,7 +18,7 @@ Throughout the semester, I designed and manufactured a robot for MIT 2.007: Desi
   <div class="intro-image">
     <img
       src="{{ "/assets/img/portfolio/2.007_comp.JPEG" | relative_url }}"
-      alt="Robot competing in the MIT 2.007 competition"
+      alt="Robot at comp"
     >
   </div>
 </div>
