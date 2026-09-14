@@ -3,7 +3,7 @@ layout: post
 title: CAD Design
 order: 8
 img: "assets/img/portfolio/glasses.png"
-feature-img: "assets/img/portfolio/background.png" 
+feature-img: "assets/img/portfolio/background.jpg"
 tags: [CAD]
 display-date: "Ongoing"
 ---
