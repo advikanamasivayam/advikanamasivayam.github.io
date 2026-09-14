@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MIT d'Arbeloff Lab Vine Robot Research
+title: MIT d'Arbeloff Lab - Vine Robots
 order: 5
 img: "assets/img/portfolio/rig.jpg"
 feature-img: "assets/img/portfolio/background.jpg"
